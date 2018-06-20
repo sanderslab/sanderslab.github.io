@@ -1,0 +1,113 @@
+- name: Stephan Sanders
+  photo: stephansanders.jpg
+  info: Assistant Professor
+  url: stephansanders
+  group: 0
+  
+- name: Donna Werling
+  photo: donnawerling.jpg
+  info: Postdoctoral Scholar
+  url: donnawerling
+  group: 1
+  
+- name: Joon An
+  photo: joonan.jpg
+  info: Postdoctoral Scholar
+  url: joonan
+  group: 1
+  
+- name: Shan Dong
+  photo: shandong.jpg
+  info: Postdoctoral Scholar
+  url: shandong
+  group: 1
+
+- name: Brooke Sheppard
+  photo: brookesheppard.jpg
+  info: Postdoctoral Scholar
+  url: brookesheppard
+  group: 1
+  
+- name: David Young
+  photo: davidyoung.jpg
+  info: Postdoctoral Scholar
+  url: davidyoung
+  group: 1
+
+- name: Grace Schwartz
+  photo: blank.png
+  info: Staff Research Associate II
+  url: graceschwartz
+  group: 2
+
+- name: Clif Duhn
+  photo: clifduhn.jpg
+  info: Laboratory Manager
+  url: clifduhn
+  group: 2
+
+- name: Will Silverman
+  photo: blank.png
+  info: Laboratory Assistant
+  url: willsilverman
+  group: 2
+  
+- name: Michael Gilson
+  photo: michaelgilson.jpg
+  info: Bioinformatics Programmer​ III
+  url: michaelgilson
+  group: 3
+
+- name: Lindsay Liang
+  photo: lindsayliang.jpg
+  info: Bioinformatics Programmer​ I
+  url: lindsayliang
+  group: 3
+
+- name: Claudia Dalmatch
+  photo: claudiadalmatch.jpg
+  info: Bioinformatics Programmer​ I
+  url: claudiadalmatch
+  group: 3
+
+- name: Sindy Law
+  photo: sindylaw.jpg
+  info: Application Developer/Database Programmer​
+  url: sindylaw
+  group: 3
+
+- name: Mai Nojima
+  photo: mainojima.jpg
+  info: Undergraduate Research Volunteer
+  url: mainojima
+  group: 4
+
+- name: Deniz Yuruk
+  photo: blank.png
+  info: Visitor
+  url: 
+  group: 4
+
+- name: Louw Smith
+  info: Data Operations Manager
+  url: louwsmith
+  group: 8
+  year: 2015-2016
+  extlink: 'https://www.brandeis.edu/facultyguide/person.html?emplid=decdc7873f5dc5d7658c2fbabd70047fd7d9cab0'
+  current: 
+
+- name: Eddie Gao
+  info: Intern
+  url: eddiegao
+  group: 8
+  year: 2017
+  current:
+
+- name: Carmen Sandoval
+  info: Rotate Student
+  url: carmensandoval
+  group: 8
+  year: 2018
+  current:
+  
+ 

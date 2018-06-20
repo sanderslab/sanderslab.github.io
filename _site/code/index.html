@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sanders Lab - Code</title>
+  <meta name="description" content="Sanders Lab -- Code.">
+  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/code/">
+<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+<link rel="stylesheet" href="/css/academicons/css/academicons.css">
+
+
+
+
+</head>
+
+
+  <body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+	<div class="navbar-header">
+	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	  </button>
+	
+    <a class="navbar-brand" href="http://localhost:4000/">Sanders Lab @ UCSF</a>
+	</div>
+	<div class="collapse navbar-collapse" id="navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right">
+		<li><a href="http://localhost:4000/">Home</a></li>
+		<li><a href="http://localhost:4000/team">Team</a></li>
+		<li><a href="http://localhost:4000/research">Research</a></li>
+		<li><a href="http://localhost:4000/publications">Publication</a></li>
+		<li><a href="http://localhost:4000/code">Code</a></li>
+		<!-- <li><a href="http://localhost:4000/psychcore">PsychCore</a></li> -->
+	  </ul>
+	</div>
+  </div>
+</div>
+
+
+    <div class="container-fluid">
+      <div class="row">
+        <div id="textid" class="col-sm-12">
+  <h1 id="code">Code</h1>
+
+<hr />
+
+<h2 id="wgspowertest"><a href="https://github.com/stephansanders/wgsPowerTest">wgsPowerTest</a></h2>
+
+<p><img src="http://localhost:4000/images/codepic/wgspower.png" style="width: 500px" /></p>
+
+<p>This R package runs power calculations for the discovery of variants in whole genome sequencing data.</p>
+
+<ul>
+  <li><a href="https://github.com/stephansanders/wgsPowerTest"><i class="fab fa-github"></i> Source</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pubmed/29184211"><i class="fa fa-book"></i> Paper</a></li>
+</ul>
+
+<hr />
+
+<h2 id="cnvision"><a href="https://sourceforge.net/projects/cnvision/">CNVision</a></h2>
+
+<p><img src="http://localhost:4000/images/codepic/cnvision.png" style="width: 500px" /></p>
+
+<p>CNVision is designed for detecting and scoring Copy Number Variants (CNVs) from Illumina SNP genotyping data. It runs in a UNIX environment and works with all Illumina chips (from 300k to latest Omni). CNVs are predicted using PennCNV, QuantiSNPv2.3, and GNOSIS (an in-built algorithm). The predicted CNVs are merged, joined (if appropriate), and scored based on the per SNP variability in the raw genotyping data. CNVision can also identify de novo CNVs in family-based data using the per SNP variability algorithm. Comparison with 1000 Genomes, the Genome Structural Variation Consortium, and replicate Illumina data demonstrates the efficacy of the CNV scoring method in both inherited and de novo CNVs.
+​
+CNVision was written to analyze data for the Simons Simplex Collection autism data. A full description of methods are given in the following paper which can be used to reference (<a href="https://www.ncbi.nlm.nih.gov/pubmed/26402605">Sanders et al. (2015)</a>)</p>
+
+<ul>
+  <li><a href="https://sourceforge.net/projects/cnvision/"><i class="fab fa-github"></i> Source</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pubmed/26402605"><i class="fa fa-book"></i> Paper</a></li>
+</ul>
+
+<hr />
+
+<h2 id="identity-check"><a href="http://genomic-identity.wikidot.com/">Identity check</a></h2>
+<p>​
+​Managing large genomic datasets requires accurate estimation of sample identity. This script rapidly identifies all BAM files and Illumina SNP genotyping FinalReports on a cluster, generates a SNP barcode from each one, and uses BLAT to identify duplicates and/or matches. It is run off aligned, indexed BAM files directly (hg18 or hg19) and FinalReports directly (hg18 or hg19). Cross platform (BAM to FinalReport) and cross genome build (hg18 to hg19) is handled automatically.</p>
+
+<ul>
+  <li><a href="https://sourceforge.net/projects/cnvision/"><i class="fab fa-github"></i> Source</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pubmed/26402605"><i class="fa fa-book"></i> Manual</a></li>
+</ul>
+
+<hr />
+
+<h2 id="unix-treasure-hunt-tutorial"><a href="">UNIX treasure hunt tutorial</a></h2>
+<p>​
+This perl script will install a series of directories and clues that teaches basic UNIX command line skills including cd, ls, grep, less, head, tail, and nano. Run the perl script from the command line on a UNIX based machine (e.g. Mac or Linux) using the command: perl treasureHunt_v2.pl. Then use ‘ls’ to find the first clue. A PDF of command line commands is also available to download.</p>
+
+<ul>
+  <li><a href="https://www.dropbox.com/s/kyf3y0cfqr01ffe/treasurehunt_v2.pl?dl=0"><i class="fab fa-github"></i> Source</a></li>
+  <li><a href="https://www.dropbox.com/s/qhzushxh5s3zia3/Unix_basics.pdf?dl=0"><i class="fa fa-book"></i> Manual</a></li>
+</ul>
+
+<hr />
+
+
+</div>
+
+      </div>
+    </div>
+
+    <div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+		<div class="col-sm-3">
+			<p></p>
+			<p><a href="https://psych.ucsf.edu/">Department of Psychiatry</a></p>            
+		</div>
+
+		<div class="col-sm-4">
+			<p></p>
+			<p><a href="https://www.ucsf.edu/">University of California, San Francisco</a></p>            
+		</div>
+
+<!-- 		<div class="col-sm-4">
+			<p></p>
+			<p><a href="http://localhost:4000/about">About</a> 
+				<a href="http://localhost:4000/recruitment">Recruitment</a>
+				<a href="http://localhost:4000/contact">Contact</a>
+			</p>
+		</div> -->
+
+
+		<div class="collapse navbar-collapse-footer" id="navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="http://localhost:4000/about">About</a></li>
+				<li><a href="http://localhost:4000/recruitment">Recruitment</a></li>
+				<li><a href="http://localhost:4000/contact">Contact</a></li>
+			</ul>
+		</div>
+		
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://localhost:4000/js/bootstrap.min.js"></script>
+
+
+  </body>
+
+</html>
