@@ -1,11 +1,5 @@
-# Allan Lab Website
+# Sanders Lab
 
-This is the website of our academic research group at Leiden University.
+Our website is based on the open source templates designed and shared by the labs of [D. Allan Drummond](http://www.allanlab.org/aboutwebsite.html) and [Trevor Bedford](http://bedford.io/misc/about/). We downloaded source codes from their repository and modified our contents based on shared templates. We greatly thank for Allan and Trevor for allowing reuse of their codebase. 
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
-
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
-
-
-Copyright Allan Lab. Code released under the MIT License.
-
+The website is deployed using [GitHub Pages](https://sanderslab.github.io) and the source code is available on [GitHub](https://github.com/sanderslab). Please feel free to reuse this code (making sure to cite the Bedford lab and Drummond lab as the original sources of the lab website template).
