@@ -48,9 +48,16 @@
 // Optional footer (stays gray in every modifier class)
 .panel-footer {
   padding: $panel-footer-padding;
-  background-color: $panel-footer-bg;
+  background-color: transparent;
   border-top: 1px solid $panel-inner-border;
+  border-color: darkgray;
   @include border-bottom-radius(($panel-border-radius - 1));
+}
+
+.panel-footer:hover{
+color:black;
+  text-decoration: underline;
+  text-decoration-color: darkgray;
 }
 
 

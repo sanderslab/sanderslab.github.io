@@ -25,11 +25,9 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="row">
- 	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: left" />
-  <p><a href="{{ publi.link.url }}">{{ publi.title }}</a></p>
-  <p>{{ publi.link.display }}</p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+ 	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: right" />
+  <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
+  <a class="pub2"> {{ publi.link.display }} </a>
  </div>
 </div>
 
@@ -54,7 +52,7 @@ permalink: /publications/
 <div>
 ## Full List
 
-For a full list, please go to [Google Scholar](https://scholar.google.com/citations?user=O1EuSPYAAAAJ), [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Sanders%20SJ%5BAuthor%5D)
+For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?user=O1EuSPYAAAAJ">Google Scholar</a> or <a class="regtext" href="https://www.ncbi.nlm.nih.gov/pubmed?term=Sanders%20SJ%5BAuthor%5D">Pubmed</a>.
 <br><br><br>
 
 </div>
