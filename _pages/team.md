@@ -7,7 +7,7 @@ permalink: /team/
 ---
 
 # Team Members
-(Please click the name for detailed biography)
+(Please click the name for the detailed profile)
 
 
 ---
