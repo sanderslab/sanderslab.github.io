@@ -6251,11 +6251,16 @@ pubtit {
   font-weight: 100;
   /* Museo */ }
 
-.smallhead {
-  font-size: 19px;
+.alumni1 {
+  font-size: 18px;
   font-weight: 300;
-  line-height: 23px;
-  /* Museo */ }
+  line-height: 12px; }
+
+.alumni2 {
+  font-size: 15px;
+  font-weight: 200;
+  line-height: 10px;
+  padding-left: 20px; }
 
 .pub1 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;

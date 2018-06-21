@@ -182,8 +182,11 @@ permalink: /team/
 {% for member in site.data.team_members %}
 {% if member.group == 8 %}
 
-<i class="smallhead">{{ member.name }}</i><br>
-<i>{{ member.info }}</i> (<i class="smallhead2">{{ member.year }}</i>)
+<i class="alumni1">{{ member.name }}</i><br>
+<i class="alumni2">{{ member.info }} ({{ member.year }}</i>) {% if member.current %} 
+<i class="alumni2">Current: {{ member.current }}</i> {% if member.extlink %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.extlink }}">(Link)</a>
+{% endif %}
+{% endif %}
 
 {% endif %}
 {% endfor %}

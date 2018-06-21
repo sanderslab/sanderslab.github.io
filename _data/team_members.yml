@@ -93,21 +93,42 @@
   url: louwsmith
   group: 8
   year: 2015-2016
-  extlink: 'https://www.brandeis.edu/facultyguide/person.html?emplid=decdc7873f5dc5d7658c2fbabd70047fd7d9cab0'
-  current: 
+  current: Instructor in the Rabb School of Continuing Studies, Brandeis University
+  extlink: https://www.brandeis.edu/facultyguide/person.html?emplid=decdc7873f5dc5d7658c2fbabd70047fd7d9cab0
 
 - name: Eddie Gao
-  info: Intern
+  info: Summer Intern
   url: eddiegao
   group: 8
   year: 2017
-  current:
+  current: Undergraduate, UC Berkeley
+
+- name: Alexandria Alpy
+  info: Summer Intern
+  url: alexandriaalpy
+  group: 8
+  year: 2017
+  current: University of Ohio
+
+- name: Flora Zhao
+  info: Highschool Research Volunteer
+  url: florazhao
+  group: 8
+  year: 2017
+  current: 
+
+- name: Jason Zhao
+  info: Highschool Research Volunteer
+  url: jasonzhao
+  group: 8
+  year: 2017
+  current: 
 
 - name: Carmen Sandoval
   info: Rotate Student
   url: carmensandoval
   group: 8
   year: 2018
-  current:
+  current: Neuroscience Graduate Program, UCSF
   
  
