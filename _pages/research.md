@@ -11,7 +11,7 @@ permalink: /research/
 ---
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/asdcnv.png){: style="width: 50%; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/asdcnv.png){: style="width: 300px; max-width: 100%; height: auto; float: left;margin-right: 30px; border: 10px"}
 
 ## Copy number variants (CNVs) in autism spectrum 
 <div style="text-align: justify">
@@ -19,7 +19,7 @@ My early publications describe the development of a novel approach to detecting 
 </div>
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 50%; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; max-width: 100%; height: auto; float: left;margin-right: 30px; border: 10px"}
 
 ## Loss of function (LoF) mutations in autism spectrum disorder 
 <div style="text-align: justify">
@@ -27,7 +27,7 @@ Our work was the first to show that de novo LoF mutations are observed at a high
 </div>
 ---- 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/scn2a.jpg){: style="width: 50%; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/scn2a.jpg){: style="width: 300px; max-width: 100%; height: auto; float: left;margin-right: 30px; border: 10px"}
 
 ## Understanding the role of ASD genes
 <div style="text-align: justify">
