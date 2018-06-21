@@ -5,7 +5,7 @@ layout: default
 {% assign member = page %}
 
 <div class="row">
-	<div class="col-md-12">
+	<div class="col-sm-12">
 		<div class="media">
 
 			<img class="pull-left pad-right media-object" width=160 src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}">
@@ -26,7 +26,7 @@ layout: default
 <div class="bigspacer"></div>
 
 <div class="row">
-	<div class="col-md-3">
+	<div class="col-sm-3">
 
 		{% if member.ucsf %}
 		<div class="smallhead">
@@ -76,6 +76,18 @@ layout: default
 		<div class="bigspacer"></div>
 		{% endif %}
 
+		{% if member.linkedin %}
+		<div class="smallhead">
+			LinkedIn
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fab fa-linkedin"></i>
+			<a class="off" href="https://www.linkedin.com/in/{{ member.linkedin }}">{{ member.title }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
 		{% if member.email %}
 		{% assign emailarray = member.email | split: '@' %}
 		<div class="smallhead">
@@ -90,7 +102,7 @@ layout: default
 		{% endif %}
 
 	</div>
-	<div class="col-md-8" style="margin-left:10px margin-right:10px">
+	<div class="col-sm-8" style="margin-left:10px margin-right:10px">
 		<div class="post" style="text-align:justify">
 			{{ content }}
 		</div>

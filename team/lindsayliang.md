@@ -5,8 +5,9 @@ position: Bioinformatics Programmer​ I
 handle: lindsayliang
 email: 
 twitter:
-github:
+github: lindsay-liang
 scholar: 
+linkedin: 
 photo: lindsayliang.jpg
 ucsf: 
 ---

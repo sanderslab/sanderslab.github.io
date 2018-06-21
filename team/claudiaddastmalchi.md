@@ -5,8 +5,9 @@ position: Bioinformatics Programmer​ I
 handle: claudiaddastmalchi
 email: 
 twitter:
-github:
+github: claudiadast
 scholar: 
+linkedin: claudiadast
 photo: claudiaddastmalchi.jpg
 ucsf: 
 ---

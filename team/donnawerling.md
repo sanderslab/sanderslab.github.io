@@ -7,6 +7,7 @@ email:
 twitter:
 github:
 scholar: RIi-1pAAAAAJ
+linkedin: donna-werling-aa272182
 photo: donnawerling.jpg
 ucsf: donna.werling
 ---
