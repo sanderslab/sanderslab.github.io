@@ -8,7 +8,12 @@ permalink: /
 
 # Welcome to Sanders Lab at UCSF
 
-Sanders Lab aims to identify the etiology of childhood neuropsychiatric disorders through the discovery of genetic risk factors. Over the past few years there has been rapid progress in identifying the genes that play a role in autism spectrum disorder (ASD). We aim to leverage these findings to build a more complete understanding of ASD and to extend this approach to other human disorders. There are four main areas of research:
+![]({{ site.url }}{{ site.baseurl }}/images/sanders.png){: style="width: 180px; float: left;margin-right: 20px; border: 10px"}
+
+
+Sanders Lab aims to identify the etiology of childhood neuropsychiatric disorders through the discovery of genetic risk factors. Over the past few years there has been rapid progress in identifying the genes that play a role in autism spectrum disorder (ASD). We aim to leverage these findings to build a more complete understanding of ASD and to extend this approach to other human disorders. 
+
+There are four main areas of research:
 
 1. **Gene discovery**: Genomic analysis of DNA using high-throughput sequencing and microarray technologies to identify genes and genetic loci involved in human disorders
 2. **Sex bias**: Identifying genes and gene networks that lead to the preponderance of males diagnosed with autism spectrum disorder
