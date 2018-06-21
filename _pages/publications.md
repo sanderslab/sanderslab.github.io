@@ -54,7 +54,7 @@ permalink: /publications/
 <div>
 ## Full List
 
-For a full list, please go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Sanders%20SJ%5BAuthor%5D)
+For a full list, please go to [Google Scholar](https://scholar.google.com/citations?user=O1EuSPYAAAAJ), [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=Sanders%20SJ%5BAuthor%5D)
 <br><br><br>
 
 </div>
