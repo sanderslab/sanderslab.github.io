@@ -14,7 +14,7 @@ permalink: /code/
 ## [wgsPowerTest](https://github.com/stephansanders/wgsPowerTest)
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/wgspower.png" style="width: 200px"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/wgspower.png" style="width: 300px"> 
 
 This R package runs power calculations for the discovery of variants in whole genome sequencing data.
 
@@ -25,7 +25,7 @@ This R package runs power calculations for the discovery of variants in whole ge
 
 ## [SCN2A Variant Browser](https://public.tableau.com/profile/ucsf.psychiatry.bioinformatics.core#!/vizhome/SCN2AVariantViz6_0/Dashboard1)
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/scn2aviz.png" style="width: 200px"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/scn2aviz.png" style="width: 300px"> 
 
 The database SCN2A variants.
 
@@ -38,7 +38,7 @@ The database SCN2A variants.
 ## [CNVision](https://sourceforge.net/projects/cnvision/)
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/cnvision.png" style="width: 200px"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/cnvision.png" style="width: 300px"> 
 
 CNVision is designed for detecting and scoring Copy Number Variants (CNVs) from Illumina SNP genotyping data. It runs in a UNIX environment and works with all Illumina chips (from 300k to latest Omni). CNVs are predicted using PennCNV, QuantiSNPv2.3, and GNOSIS (an in-built algorithm). The predicted CNVs are merged, joined (if appropriate), and scored based on the per SNP variability in the raw genotyping data. CNVision can also identify de novo CNVs in family-based data using the per SNP variability algorithm. Comparison with 1000 Genomes, the Genome Structural Variation Consortium, and replicate Illumina data demonstrates the efficacy of the CNV scoring method in both inherited and de novo CNVs.
 ​
