@@ -7,7 +7,7 @@ email:
 twitter:
 github:
 scholar: 
-photo: blank.jpg
+photo: blank.png
 ucsf: 
 ---
 

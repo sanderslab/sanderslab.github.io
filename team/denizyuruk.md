@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Deniz Yuruk
-position: Intern
+position: Visiting Scholar
 handle: denizyuruk
 email: 
 twitter:
