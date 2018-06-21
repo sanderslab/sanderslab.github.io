@@ -1,13 +1,13 @@
 ---
 layout: member
-title: Claudia Dalmatch
+title: Claudia Dastmalchi
 position: Bioinformatics Programmer​ I
-handle: claudiadalmatch
+handle: claudiaddastmalchi
 email: 
 twitter:
 github:
 scholar: 
-photo: claudiadalmatch.jpg
+photo: claudiaddastmalchi.jpg
 ucsf: 
 ---
 
