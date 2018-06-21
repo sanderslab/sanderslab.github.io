@@ -6,20 +6,16 @@ layout: default
 
 <div class="row">
 	<div class="col-sm-6">
-		<div class="media">
 
-			<img class="pull-left pad-right media-object" width=160 src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}">
+			<img class="pull-left pad-right content-photo" width=160 src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}">
 
-			<div class="media-body titlebox">
+
 				<div class="bigtitle media-heading">
 					{{ member.title }}
 				</div>
-				<p>
-				<div class="smallhead">
+				<p><div class="smallhead">
 					{{ member.position }}
-				</div>
-			</div>
-		</div>
+				</div></p>
 	</div>
 </div>
 
@@ -103,11 +99,7 @@ layout: default
 
 	</div>
 	<div class="col-sm-6" style="text-align:justify">
-
-			<i class="content" style="margin:auto">{{ content }}</i>
-
-
-
+		<i class="content" style="margin:auto">{{ content }}</i>
 
 	</div>
 
