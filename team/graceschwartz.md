@@ -8,7 +8,7 @@ twitter:
 github:
 scholar: 
 linkedin: grace-schwartz-44b53134
-photo: 
+photo: graceschwartz.jpg
 ucsf: grace-schwartz
 ---
 
