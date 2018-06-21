@@ -1,13 +1,13 @@
 ---
 layout: member
-title: Sindy Law
-position: Data Architecture
-handle: sindylaw
+title: Will Silberman
+position: Executive Assistant
+handle: willsilberman
 email: 
 twitter:
 github:
 scholar: 
-photo: sindylaw.jpg
+photo: blank.jpg
 ucsf: 
 ---
 

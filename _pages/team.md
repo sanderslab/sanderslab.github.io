@@ -191,7 +191,7 @@ permalink: /team/
 ---
 
 ## Administrative Support
-<a href="mailto:willsilverman@ucsf.edu">Will Silverman</a> or <a href="mailto:willsilverman@ucsf.edu">Clif Duhn</a> is helping us with administration.
+<a href="mailto:William.Silberman@ucsf.edu">Will Silberman</a> or <a href="mailto:Clif.Duhn@ucsf.edu">Clif Duhn</a> is helping us with administration.
 
 
 
