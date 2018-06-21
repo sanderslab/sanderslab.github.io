@@ -7,6 +7,7 @@ email:
 twitter:
 github:
 scholar: 
+linkedin: 
 photo: davidyoung.jpg
 ucsf: david.young.2
 ---

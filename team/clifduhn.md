@@ -7,6 +7,7 @@ email:
 twitter:
 github:
 scholar: 
+linkedin: clif-duhn-6b62412
 photo: clifduhn.jpg
 ucsf: 
 ---
