@@ -6,10 +6,30 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research Highlight
+# Research Highlights
 
 ---
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+
+## Gene discovery in autism spectrum disorder and other developmental disorders
+<div style="text-align: justify">
+Exome sequencing has revolutionized our ability to find the genes associated with autism spectrum disorder (ASD) and other severe developmental disorders. Four papers, published concurrently in 2012, showed an excess of de novo mutations that disrupt genes in cases compared to controls and Dr. Sanders, working in Dr. State's lab at Yale, was the first author of one of these ([Sanders et al. Nature 2012](https://www.ncbi.nlm.nih.gov/pubmed/22495306)). This paper also demonstrated that observing disruptive de novo mutations in the same gene across multiple cases could be used to establish genome-wide association with ASD, and this method was used to identify the voltage-gated sodium channel SCN2A as one of the most frequent causes of ASD. As a member of the [Autism Sequencing Consortium](https://genome.emory.edu/ASC/), the Sanders Lab continues to play an active role in advancing gene discovery in ASD. The initial observation of an excess of disruptive de novo mutations in cases has been replicated in larger cohorts (e.g. [De Rubeis et al. Nature 2014](https://www.ncbi.nlm.nih.gov/pubmed/25363760), [Iossifov et al. Nature 2014](https://www.ncbi.nlm.nih.gov/pubmed/25363768), [Dong et al. 2014](https://www.ncbi.nlm.nih.gov/pubmed/25284784)). These two cohorts were combined and integrated with copy number variant (CNV) data to identify 65 genes associated with ASD ([Sanders et al. Neuron 2015](https://www.ncbi.nlm.nih.gov/pubmed/26402605)). This approach to gene discovery has been successful in several other developmental disorders, including severe developmental delay, epileptic encephalopathy, and congenital heart disease. 
+</div>
+---- 
+
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/scn2aMut.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+
+## Understanding the role of ASD genes
+<div style="text-align: justify">
+The genes discovered through exome sequencing provide an entree into the biology of ASD, hopefully as a foundation for developing theraputics. The Sanders Lab takes two research approaches: 1) To consider ASD-associated genes en masse to look for patterns of convergence [State MW, Šestan N Science 2012](https://www.ncbi.nlm.nih.gov/pubmed/22984058); 2) To investigate the genes with the strongest evidence of ASD association, such as SCN2A in depth.
+
+Through the first approach, the Sanders Lab has helped delineate two major functional roles of ASD-associated genes: 1) gene expression regulators (GER), i.e. genes that influence the expression of other genes such as CHD8 and ARID1B; and 2) neuronal communication, such as SCN2A and NRXN1, see [De Rubeis et al. Nature 2014](https://www.ncbi.nlm.nih.gov/pubmed/25363760) and [Sanders et al. Neuron 2015](https://www.ncbi.nlm.nih.gov/pubmed/26402605). Co-expression analysis showed convergence across multiple ASD-associated genes during mid-fetal development in the prefrontal cortex and this result was driven by layer 5/6 glutamatergic neurons ([Willsey et al. Cell 2015](https://www.ncbi.nlm.nih.gov/pubmed/24267886)). Similar patterns have been identified through other systems-based approaches, reviewed in [Sanders Curr Opin Genet Dev 2015](https://www.ncbi.nlm.nih.gov/pubmed/26547130).
+
+The second approach has focused mainly on the gene SCN2A and is performed in collaboration with the [Bender lab at UCSF](https://benderlab.ucsf.edu/research-projects), the [SCN2A family group](http://www.scn2a.org), and [Simons VIP](https://simonsvipconnect.org). By integrating genetic data across multiple cases and cohorts with structural data on the NaV1.2 protein encoded by SCN2A and electrophysiology, we demonstrated that loss-of-function mutations of SCN2A lead to ASD and developmental delay, while gain-of-function mutations lead to epileptic encephalopathy ([Ben-Shalom et al. 2017](https://www.ncbi.nlm.nih.gov/pubmed/28256214)). 
+
+</div>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/asdcnv.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
@@ -19,17 +39,4 @@ My early publications describe the development of a novel approach to detecting 
 </div>
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
-## Loss of function (LoF) mutations in autism spectrum disorder 
-<div style="text-align: justify">
-Our work was the first to show that de novo LoF mutations are observed at a higher rate in ASD cases than unaffected sibling controls, thereby demonstrating association with ASD. In addition, we developed a statistical approach to evaluating the probability of observing multiple de novo LoF mutations in the same gene. This allowed us to identify specific genes associated with ASD, including the sodium channel SCN2A and the chromatin regulator CHD8. I led the analysis and write up of this project including the development of approaches to discovering de novo mutations and the statistical assessment of multiple mutations in the same gene. This research has had a transformative effect on ASD genetics; statistical refinement and the application to larger cohorts has replicated our initial findings and when combined with the CNV data led to the discovery of over 65 ASD genes (Sanders et al. 2015, see previous topic). In addition application of our approach has led to the identification of disease-associated genes in many other disorders, including intellectual disability, epileptic encephalopathy, and congenital heart disease. Both Autism Speaks and SFARI cited our work on de novo LoF mutations as one of the top ten papers of the year.
-</div>
----- 
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/scn2aMut.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
-
-## Understanding the role of ASD genes
-<div style="text-align: justify">
-Having developed a robust method for identifying ASD genes, we have begun to consider how we can use this foundation to understand the neuropathology of ASD. In collaboration with the [Bender lab at UCSF](https://benderlab.ucsf.edu/research-projects), we demonstrated that loss of function mutations of SCN2A lead to autism and developmental delay, while gain of function mutations lead to epileptic encephalopathy (Ben-Shalom et al. 2017). Similarly, ChIP-Seq analysis of CHD8 shows that this gene acts as the regulator of ASD genes, including SCN2A (Cotney et al. 2015). We have also used co-expression analysis to identify convergence during mid-fetal development in the prefrontal cortex driven by layer 5/6 glutamatergic neurons (Willsey et al. 2015). Along with investigating the molecular neuropathology of ASD we have also considered the relative contributions of the various genetic and environmental risk factors to ASD risk in the population and in cases, highlighting the role of common variation at a population level (Klei et al. 2012).
-</div>
