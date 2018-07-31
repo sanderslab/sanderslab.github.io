@@ -45,12 +45,6 @@
   info: Laboratory Manager
   url: clifduhn
   group: 2
-
-- name: Will Silberman
-  photo: blank.png
-  info: Executive Assistant
-  url: willsilberman
-  group: 2
   
 - name: Michael Gilson
   photo: michaelgilson.jpg
@@ -83,10 +77,10 @@
   group: 4
 
 - name: Deniz Yuruk
-  photo: blank.png
   info: Visiting Scholar
   url: denizyuruk
-  group: 4
+  group: 8
+  year: 2018
 
 - name: Louw Smith
   info: Data Operations Manager
