@@ -7,7 +7,7 @@ permalink: /team/
 ---
 
 # Team Members
-(Please click the name for the detailed profile)
+(Please click the name below for the lab memeber's profile)
 
 
 ---
@@ -194,7 +194,7 @@ permalink: /team/
 ---
 
 ## Administrative Support
-<a href="mailto:William.Silberman@ucsf.edu">Will Silberman</a> or <a href="mailto:Clif.Duhn@ucsf.edu">Clif Duhn</a> is helping us with administration.
+Please contact our lab manager, <a href="mailto:Clif.Duhn@ucsf.edu">Clif Duhn</a>.
 
 
 
