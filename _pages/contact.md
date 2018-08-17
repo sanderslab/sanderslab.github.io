@@ -28,14 +28,14 @@ Parking off [4th Street](https://www.google.com/maps/place/Third+Street+Garage/@
 Parking off [South Street](https://www.google.com/maps/search/401+South+Street/@37.76892,-122.388106,19z/data=!3m1!4b1) (charged by the day, or 2hrs)
  
 ### Public transport
-There is a Muni stop (KT) line 3min walk from the lab, shown on the map above.
+There are two MUNI lines with stops in close proximity to UCSF Mission Bay: the T-Third St and 55-16th St.
 
-The Muni map can be found [here](http://www.sfmta.com/getting-around/transit/routes-stops/kt-kt-inglesidethird-street)
-The next Muni can be found [here](http://www.nextmuni.com/redirect.shtml?a=sf-muni&stopId=17360#!/sf-muni/KT/KT__IB1/7360/7361)
+1. T-Third St. [link](https://www.sfmta.com/routes/t-third-street)
+1. 55-16th St. [link](https://www.sfmta.com/routes/55-16th-street)
  
 ### UCSF Shuttle
 Several UCSF shuttle lines stop on 4th Street outside Rock Hall. Shuttles arrive across the street from Rock Hall (east) and leave on the same side of the street as Rock Hall (west), see map above.
 
-The UCSF Shuttle map can be found [here](http://campuslifeservices.ucsf.edu/upload/transportation/files/System_map_072014.pdf)
-The next Shuttle can be found [here](https://www.nextbus.com/#!/ucsf/grey/parlppi/missb4we)
+The UCSF Shuttle map can be found [here](https://campuslifeservices.ucsf.edu/upload/transportation/files/Shuttles_SystemMap_Current.pdf)
+The Next Shuttle can be found [here](https://ucsf.tripshot.com/)
 

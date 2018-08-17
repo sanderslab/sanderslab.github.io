@@ -102,17 +102,17 @@
   url: alexandriaalpy
   group: 8
   year: 2017
-  current: University of Ohio
+  current: Ohio State University
 
 - name: Flora Zhao
-  info: Highschool Research Volunteer
+  info: High School Research Volunteer
   url: florazhao
   group: 8
   year: 2017
   current: 
 
 - name: Jason Zhao
-  info: Highschool Research Volunteer
+  info: High School Research Volunteer
   url: jasonzhao
   group: 8
   year: 2017
@@ -124,5 +124,12 @@
   group: 8
   year: 2018
   current: Neuroscience Graduate Program, UCSF
+
+- name: Immanuel Zion
+  info: Summer Intern
+  url: immanuelzion
+  group: 8
+  year: 2018
+  current: Bard College
   
  
