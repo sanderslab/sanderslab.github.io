@@ -17,3 +17,6 @@ David is a postdoc and a pediatric neurologist whose interest is in the localiza
 
 
 ### Education
+- MD, University of California, San Francisco 
+- PhD, Neuroscience, University of California, San Francisco 
+- BSc, Molecular and Cell Biology, University of California, Berkeley
