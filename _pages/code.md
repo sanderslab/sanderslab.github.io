@@ -79,8 +79,8 @@ CNVision was written to analyze data for the Simons Simplex Collection autism da
 
 This perl script will install a series of directories and clues that teaches basic UNIX command line skills including `cd`, `ls`, `grep`, `less`, `head`, `tail`, and `nano`. Run the perl script from the command line on a UNIX based machine (e.g. Mac or Linux) using the command: `perl treasureHunt_v2.pl`. Then use `ls` to find the first clue. A PDF of command line commands is also available to download.
 
-- <a href="https://www.dropbox.com/s/kyf3y0cfqr01ffe/treasurehunt_v2.pl?dl=0"><i class='fa fa-link'></i> Source</a>
-- <a href="https://www.dropbox.com/s/qhzushxh5s3zia3/Unix_basics.pdf?dl=0"><i class='fa fa-book'></i> Manual</a>
+- <a href="https://www.dropbox.com/s/4pnobo1vk1sqvjb/treasureHunt_v2.pl?dl=0"><i class='fa fa-link'></i> Source</a>
+- <a href="https://www.dropbox.com/s/xw5c1ra4td9k966/Unix_basics.pdf?dl=0"><i class='fa fa-book'></i> Manual</a>
 
 ---
 
