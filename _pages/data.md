@@ -23,11 +23,11 @@ permalink: /data/
 ### E11.5 Atlas
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/po79jZw_rso?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="790" src="https://player.vimeo.com/video/402038477?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/qCKpO0Hqf0Q?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="404" height="790" src="https://player.vimeo.com/video/402060979?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
@@ -35,11 +35,11 @@ permalink: /data/
 ### E13.5 Atlas
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/nEK3Fur4aRk?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="586" src="https://player.vimeo.com/video/402062200?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/P70m4ZEBUaM?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="324" height="586" src="https://player.vimeo.com/video/402062384?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
@@ -48,11 +48,11 @@ permalink: /data/
 
 <!-- start later since the body is cropped in the refined atlas -->
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/j_zKBHrtF44?autoplay=1&start=68&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="657" src="https://player.vimeo.com/video/402063028?autoplay=1&muted=1&#t=68s" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/ZQMyeVW7WVM?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="432" height="657" src="https://player.vimeo.com/video/402063071?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
@@ -60,11 +60,11 @@ permalink: /data/
 ### E18.5 Atlas
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/yY1ZW3mnZEU?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="430" height="721" src="https://player.vimeo.com/video/402063101?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/I5BdU5mAxd4?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="721" src="https://player.vimeo.com/video/402063122?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
@@ -72,11 +72,11 @@ permalink: /data/
 ### P4 Atlas
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/Gnb3zernUsg?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="688" src="https://player.vimeo.com/video/402063157?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/-1lpudojk_A?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="436" height="688" src="https://player.vimeo.com/video/402063195?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
@@ -84,11 +84,11 @@ permalink: /data/
 ### P14 Atlas
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/s4AMbWrgAPI?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="615" src="https://player.vimeo.com/video/402063218?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/2royG_uXAaw?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="615" src="https://player.vimeo.com/video/402063247?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
@@ -96,11 +96,11 @@ permalink: /data/
 ### P28 Atlas
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/21ujaGwYlS0?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="626" src="https://player.vimeo.com/video/402063281?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/yhV7XTCOAIM?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="432" height="626" src="https://player.vimeo.com/video/402063311?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
@@ -108,11 +108,11 @@ permalink: /data/
 ### P56 Atlas
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/wbMYrvtnvIA?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="523" src="https://player.vimeo.com/video/402063338?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="450" height="253" src="https://www.youtube-nocookie.com/embed/NaoiIoIGvZc?autoplay=1&start=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="523" src="https://player.vimeo.com/video/402063373?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
