@@ -20,26 +20,62 @@ permalink: /data/
 
 <div class="clear"></div>
 
-### E11.5 Atlas
+### P56 Atlas
 
 <div class="youtube">
-<iframe width="450" height="790" src="https://player.vimeo.com/video/402038477?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="450" height="523" src="https://player.vimeo.com/video/402063338?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="404" height="790" src="https://player.vimeo.com/video/402060979?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="450" height="523" src="https://player.vimeo.com/video/402063373?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
 
-### E13.5 Atlas
+### P28 Atlas
 
 <div class="youtube">
-<iframe width="450" height="586" src="https://player.vimeo.com/video/402062200?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="450" height="626" src="https://player.vimeo.com/video/402063281?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="324" height="586" src="https://player.vimeo.com/video/402062384?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="432" height="626" src="https://player.vimeo.com/video/402063311?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+<div class="clear"></div>
+
+### P14 Atlas
+
+<div class="youtube">
+<iframe width="450" height="615" src="https://player.vimeo.com/video/402063218?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+<div class="youtube">
+<iframe width="450" height="615" src="https://player.vimeo.com/video/402063247?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+<div class="clear"></div>
+
+### P4 Atlas
+
+<div class="youtube">
+<iframe width="450" height="688" src="https://player.vimeo.com/video/402063157?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+<div class="youtube">
+<iframe width="436" height="688" src="https://player.vimeo.com/video/402063195?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+<div class="clear"></div>
+
+### E18.5 Atlas
+
+<div class="youtube">
+<iframe width="430" height="721" src="https://player.vimeo.com/video/402063101?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+<div class="youtube">
+<iframe width="450" height="721" src="https://player.vimeo.com/video/402063122?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
@@ -57,62 +93,26 @@ permalink: /data/
 
 <div class="clear"></div>
 
-### E18.5 Atlas
+### E13.5 Atlas
 
 <div class="youtube">
-<iframe width="430" height="721" src="https://player.vimeo.com/video/402063101?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="450" height="586" src="https://player.vimeo.com/video/402062200?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="450" height="721" src="https://player.vimeo.com/video/402063122?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-<div class="clear"></div>
-
-### P4 Atlas
-
-<div class="youtube">
-<iframe width="450" height="688" src="https://player.vimeo.com/video/402063157?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-<div class="youtube">
-<iframe width="436" height="688" src="https://player.vimeo.com/video/402063195?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="324" height="586" src="https://player.vimeo.com/video/402062384?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
 
-### P14 Atlas
+### E11.5 Atlas
 
 <div class="youtube">
-<iframe width="450" height="615" src="https://player.vimeo.com/video/402063218?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="450" height="790" src="https://player.vimeo.com/video/402038477?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
-<iframe width="450" height="615" src="https://player.vimeo.com/video/402063247?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-<div class="clear"></div>
-
-### P28 Atlas
-
-<div class="youtube">
-<iframe width="450" height="626" src="https://player.vimeo.com/video/402063281?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-<div class="youtube">
-<iframe width="432" height="626" src="https://player.vimeo.com/video/402063311?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-<div class="clear"></div>
-
-### P56 Atlas
-
-<div class="youtube">
-<iframe width="450" height="523" src="https://player.vimeo.com/video/402063338?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-<div class="youtube">
-<iframe width="450" height="523" src="https://player.vimeo.com/video/402063373?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="404" height="790" src="https://player.vimeo.com/video/402060979?autoplay=1&muted=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <div class="clear"></div>
