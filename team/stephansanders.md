@@ -12,7 +12,7 @@ ucsf: stephan.sanders
 ---
 
 ### Overview
-Dr. Sanders trained as a pediatric physician in the UK before undertaking a PhD and postdoctoral research position at Yale. He is now an Assistant Professor at UCSF in the Department of Psychiatry. His research focuses on using genomics and bioinformatics to understand the etiology of developmental disorders, such as Autism Spectrum Disorder (ASD).
+Dr. Sanders trained as a pediatric physician in the UK before undertaking a PhD and postdoctoral research position at Yale. He is now an Associate Professor at UCSF in the Department of Psychiatry. His research focuses on using genomics and bioinformatics to understand the etiology of developmental disorders, such as Autism Spectrum Disorder (ASD).
 
 As a member of Dr. Matthew State's lab, he worked with the Simons Simplex Collection Genomic Consortium (SSCGC) to quantify the role of de novo copy number variants (CNVs) in ASD, including discovering that de novo duplications at 7q11.23 are an ASD risk factor ([Sanders et al. Neuron 2011](https://www.ncbi.nlm.nih.gov/pubmed/21658581)). He also used exome sequencing to show that de novo protein-truncating variants PTVs (also called loss-of-function (LoF) mutations) are associated with ASD. This analysis established a statistical framework for identifying the specific genes involved in ASD pathology, based on these de novo events, discovering that the voltage-gated sodium channel SCN2A is an ASD risk gene ([Sanders et al. Nature 2012](https://www.ncbi.nlm.nih.gov/pubmed/22495306)). 
 

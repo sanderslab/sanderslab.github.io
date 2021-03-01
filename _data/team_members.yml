@@ -1,20 +1,8 @@
 - name: Stephan Sanders
   photo: stephansanders.jpg
-  info: Assistant Professor
+  info: Associate Professor
   url: stephansanders
   group: 0
-  
-- name: Donna Werling
-  photo: donnawerling.jpg
-  info: Postdoctoral Scholar
-  url: donnawerling
-  group: 1
-  
-- name: Joon An
-  photo: joonan.jpg
-  info: Postdoctoral Scholar
-  url: joonan
-  group: 1
   
 - name: Shan Dong
   photo: shandong.jpg
@@ -34,18 +22,24 @@
   url: davidyoung
   group: 1
 
-- name: Grace Schwartz
-  photo: graceschwartz.jpg
-  info: Staff Research Associate II
-  url: graceschwartz
-  group: 2
-
 - name: Clif Duhn
   photo: clifduhn.jpg
   info: Laboratory Manager
   url: clifduhn
   group: 2
-  
+
+- name: Alessandra Aguilar
+  photo: grey.png
+  info: Staff Research Associate
+  url: alessandraaguilar
+  group: 2
+
+- name: Aileen Poquiz
+  photo: aileenpoquiz.jpg
+  info: Administrative Officer
+  url: aileenpoquiz
+  group: 2
+      
 - name: Michael Gilson
   photo: michaelgilson.jpg
   info: Bioinformatics Programmer​ III
@@ -58,31 +52,75 @@
   url: lindsayliang
   group: 3
 
-- name: Claudia Dastmalchi
-  photo: claudiaddastmalchi.jpg
-  info: Bioinformatics Programmer​ I
-  url: claudiaddastmalchi
-  group: 3
+- name: Alicia Ljungdahl
+  photo: alicialjungdahl.jpg
+  info: Undergraduate Research Volunteer
+  url: alicialjungdahl
+  group: 4
 
-- name: Sindy Law
-  photo: sindylaw.jpg
-  info: Application Developer/Database Programmer​
-  url: sindylaw
-  group: 3
+- name: Aparna Kumar
+  photo: grey.png
+  info: Undergraduate Research Volunteer
+  url: aparnakumar
+  group: 4
 
 - name: Mai Nojima
   photo: mainojima.jpg
   info: Undergraduate Research Volunteer
   url: mainojima
-  group: 4
+  group: 8
+  year: 2017-2020
+  current: Medical Student at Kaiser Permanente Bernard J. Tyson School of Medicine
+
+- name: Donna Werling
+  photo: donnawerling.jpg
+  info: Postdoctoral Scholar
+  url: donnawerling
+  group: 8
+  year: 2015-2019
+  current: Assistant Professor of Genetics, University of Wisconsin-Madison
+  extlink: https://werling.genetics.wisc.edu/
+  
+- name: Joon An
+  photo: joonan.jpg
+  info: Postdoctoral Scholar
+  url: joonan
+  group: 8
+  year: 2015-2019
+  current: Assistant Professor, School of Biosystem and Biomedical Science, Korea University
+  extlink: https://joonanlab.github.io/
+
+- name: Grace Schwartz
+  photo: graceschwartz.jpg
+  info: Staff Research Associate
+  url: graceschwartz
+  group: 8
+  year: 2016-2019
+  current: Research Technologist at Ann and Robert Lurie Children’s Hospital of Chicago
+
+- name: Sindy Law
+  photo: sindylaw.jpg
+  info: Database Architect
+  url: sindylaw
+  group: 8
+  year: 2015-2019
+  current: Institutional Research Analyst, UCSF School of Dentistry
+
+- name: Claudia Dastmalchi
+  photo: claudiaddastmalchi.jpg
+  info: Bioinformatics Programmer
+  url: claudiaddastmalchi
+  group: 8
+  year: 2017-2019
+  current: Bioinformatics Software Engineer at Ambry Genetics
 
 - name: Deniz Yuruk
   photo: denizyuruk.jpg
   info: Visiting Scholar
   url: denizyuruk
-  group: 4
-  year: 2017
-
+  group: 8
+  year: 2017-2018
+  
 - name: Louw Smith
   info: Data Operations Manager
   url: louwsmith
