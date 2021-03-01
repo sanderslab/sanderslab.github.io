@@ -23,6 +23,19 @@ This containerized pipeline was developed for high-throughput parallel processin
 
 ---
 
+## [MagellanMapper](https://github.com/sanderslab/magellanmapper)
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/magellanmapper.png" style="width: 300px"> 
+
+MagellanMapper is a graphical imaging informatics suite and pipeline for 3D reconstruction and automated analysis of and whole specimens and atlases. Its design philosophy is to make the raw 3D images as accessible as possible, simplify annotation from nuclei to atlases, and scale from the laptop or desktop to the cloud in cross-platform environments.
+
+- <a href="https://github.com/sanderslab/magellanmapper"><i class='fab fa-github'></i> Source</a>
+- <a href="https://elifesciences.org/articles/61408"><i class='fa fa-book'></i> Paper</a>
+- <a href="https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpns.104"><i class='fa fa-book'></i> Protocol</a>
+
+---
+
 ## [wgsPowerTest](https://github.com/stephansanders/wgsPowerTest)
 
 
