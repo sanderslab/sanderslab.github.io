@@ -1,3 +1,33 @@
+- title: "Constructing and optimizing 3D atlases from 2D data with application to the developing mouse brain"
+  image: Young2021.png
+  description: 
+  authors: 
+  link:
+    url: https://elifesciences.org/articles/61408
+    display:  Young et al. eLife (2021)
+  highlight: 1
+  news2: 
+
+- title: "Whole‐Brain Image Analysis and Anatomical Atlas 3D Generation Using MagellanMapper"
+  image: Young2020.jpg
+  description: 
+  authors: 
+  link:
+    url: https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpns.104
+    display: Young et al. Current Protocols in Neuroscience (2020)
+  highlight: 1
+  news2: 
+
+- title: "Genome-wide de novo risk score implicates promoter variation in autism spectrum disorder"
+  image: An2018.gif
+  description: 
+  authors: 
+  link:
+    url: https://science.sciencemag.org/content/362/6420/eaat6576.long
+    display:  An et al. Science (2018)
+  highlight: 1
+  news2: 
+
 - title: "An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder"
   image: Werling2018.png
   description: 
