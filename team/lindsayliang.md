@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Lindsay Liang
-position: Bioinformatics Programmer​ I
+position: Bioinformatics Programmer II
 handle: lindsayliang
 email: 
 twitter:
