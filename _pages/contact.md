@@ -36,7 +36,7 @@ There are two MUNI lines with stops in close proximity to UCSF Mission Bay: the 
 ### UCSF Shuttle
 Several UCSF shuttle lines stop on 4th Street outside Rock Hall. Shuttles arrive across the street from Rock Hall (east) and leave on the same side of the street as Rock Hall (west), see map above.
 
-- The UCSF Shuttle map can be found [here](https://campuslifeservices.ucsf.edu/upload/transportation/files/Shuttles_SystemMap_Current.pdf)
+- The UCSF Shuttle map can be found [here](https://campuslifeservices.ucsf.edu/upload/transportation/files/UCSF_Shuttle_Map_8.5x11.pdf)
 
 - The Next Shuttle can be found [here](https://ucsf.tripshot.com/)
 

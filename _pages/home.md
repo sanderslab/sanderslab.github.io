@@ -27,7 +27,7 @@ There are five main areas of research:
 The Sanders Lab is primarily a bioinformatic group that uses a wide range of genomic, bioinformatic, and statistical methods including: whole-exome sequencing, whole-genome sequencing, de novo mutation detection, RNA-Seq, and ChIP-Seq.
 
 ### Collaborators
-We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](http://www.psychiatry.pitt.edu/person/bernard-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard.
+We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard.
 
 ### Joining Sanders Lab
 If you are interested in joining please go to the [recruitment](recruitment) page.
