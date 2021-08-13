@@ -22,6 +22,12 @@
   url: davidyoung
   group: 1
 
+- name: Nick Page
+  photo: nickpage.jpg
+  info: Graduate Student
+  url: nickpage
+  group: 1
+
 - name: Clif Duhn
   photo: clifduhn.jpg
   info: Laboratory Manager
