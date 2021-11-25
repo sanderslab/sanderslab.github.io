@@ -1,10 +1,10 @@
-- title: "Constructing and optimizing 3D atlases from 2D data with application to the developing mouse brain"
-  image: Young2021.png
+- title: "Structured Context Enhancement Network for Mouse Pose Estimation"
+  image: zfxTCSVT2021.png
   description: 
   authors: 
   link:
-    url: https://elifesciences.org/articles/61408
-    display:  Young et al. eLife (2021)
+    url: https://ieeexplore.ieee.org/document/9492104
+    display:  Zhou et al. IEEE Trans. on Circuits and Systems for Video Technology (2021)
   highlight: 1
   news2: 
 
