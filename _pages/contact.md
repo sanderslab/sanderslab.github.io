@@ -10,16 +10,19 @@ permalink: /contact/
 
 ## Lab Location
 
-Sanders Lab is in Rock Hall of the UCSF Mission Bay Campus ([Google Map](https://goo.gl/maps/wLQbKoAUSTS2)):
+Sanders Lab is the main campus of University of Leicester ([Google Map](https://www.google.com/maps/place/52%C2%B037'15.7%22N+1%C2%B007'27.2%22W/@52.6210305,-1.1244896,20.34z/data=!4m5!3m4!1s0x0:0xa93a099e3f94d572!8m2!3d52.6210428!4d-1.1242413)):
 
-Room 448, Floor 4, Rock Hall
-1550 4th Street
-San Francisco
-CA 94158
+Lab G3, Floor 0,
+Informatics Building
+School of Computing and Mathematical Sciences
+University of Leicester
+University Road
+Leicester
+LE1 7RH
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/image.jpeg" style="width: 600px">
 
- 
+<!--
 ### Parking
 
 There are two car parks in close proximity to Rock Hall shown on the map above:
@@ -40,3 +43,4 @@ Several UCSF shuttle lines stop on 4th Street outside Rock Hall. Shuttles arrive
 
 - The Next Shuttle can be found [here](https://ucsf.tripshot.com/)
 
+-->
