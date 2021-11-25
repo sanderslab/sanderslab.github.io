@@ -18,7 +18,7 @@ School of Computing and Mathematical Sciences\
 University of Leicester\
 University Road\
 Leicester\
-LE1 7RH\
+LE1 7RH
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/image.jpeg" style="width: 600px">
 
