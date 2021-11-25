@@ -1,5 +1,5 @@
 ---
-title: "Sanders Lab - Recruitment"
+title: "BIPL Lab - Recruitment"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,21 +8,19 @@ permalink: /recruitment/
 
 # Open positions
 
-Thank you for your interest in joining the Sanders Lab.
+Thank you for your interest in joining the BIPL Lab.
 
 ## Graduate students
 
-Dr. Sanders is a member of the [Neuroscience graduate program (part of PIBS)](https://neurograd.ucsf.edu/about-neuroscience-graduate-program) and the [Pharmaceutical Sciences and Pharmacogenomics (PSPG) graduate program](https://pspg.ucsf.edu), which is part of the [Quantitative Biosciences Consortium (QBC)](https://qbc.ucsf.edu). If you are interested in a rotation in the Sanders Lab, please contact Dr. Sanders directly using the details on his [USCF profile page](https://profiles.ucsf.edu/stephan.sanders). We are primarily a computational lab working on the genetics of neurodevelopmental disorders, so a background in coding and/or genetics helps students make the most of their rotation.
+Prof. Zhou heads the Applied Algorithms and AI (AAAI) Theme and leads the Biomedical Image Processing Lab at University of Leicester. He was the Director of MSc Programme (2018-19), and is the Coordinator of MSc Distance Learning (Informatics), PGR Tutor and a Member of Research Committee at Informatics. Prior to this appointment, he worked as Reader (1/2018-3/2020) at University of Leicester, and Lecturer (9/2012-12/2017) at the School of Electronics, Electrical Engineering and Computer Science, Queen's University Belfast (QUB). He is a visiting scholar of QUB.
 
-If you are interested, please contact Dr. Sanders directly using the details on his [USCF profile page](https://profiles.ucsf.edu/stephan.sanders).
+If you are interested, please contact Prof. Zhou directly using the details on his [UoL profile page](https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou).
 
 ## Postdoctoral researchers
 
 We have more data and research ideas than trainees, so are keen to recruit exceptional researchers. The lab offers a collaborative and supportive environment and has a strong track record in helping students develop and begin their own independent research careers. The lab has expertise in high-performance computing and analytical pipelines, allowing novel analytic methods to be performed at scale. We are currently looking for researchers with a strong computational background in:
 
-- Genomic and functional genomic analysis, including whole-genome sequencing, single-cell sequencing, and integrative analysis of genomic and functional genomic data 
-- Statistical analysis, including network analysis and quantitative trait analysis
-- Genetic therapies, including antisense oligonucleotides (ASOs), gene replacement, and CRISPR-based approaches for the treatment of rare genetic disorders in humans
+- Fundamental understanding and modelling of biomedical signals;
+- Application-driven development in collaboration with professionals in medicine and biology.   
 
-If you are interested, please contact Dr. Sanders directly using the details on his [USCF profile page](https://profiles.ucsf.edu/stephan.sanders).
-
+If you are interested, please contact Prof. Zhou directly using the details on his [UoL profile page](https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou).
