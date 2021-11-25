@@ -1,12 +1,12 @@
 ---
-title: "Sanders Lab - Home"
+title: "BIPL Lab - Home"
 layout: homelay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "BIPL Lab at UCSF."
 sitemap: false
 permalink: /
 ---
 
-# Welcome to Sanders Lab at UCSF
+# Welcome to BIPL Lab at UoL
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
