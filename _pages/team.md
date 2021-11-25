@@ -45,7 +45,7 @@ permalink: /team/
 
 ---
 
-## Trainee
+## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ permalink: /team/
 
 ---
 
-## Staff
+## MPhil Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -111,7 +111,7 @@ permalink: /team/
 
 ---
 
-## PsychCore Genomics Core
+## Research Assistants
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -194,7 +194,7 @@ permalink: /team/
 ---
 
 ## Administrative Support
-Please contact our lab manager, <a href="mailto:Clif.Duhn@ucsf.edu">Clif Duhn</a>.
+Please contact our lab manager, <a href="mailto:lt228@leicester.ac.uk">Lei Tong</a>.
 
 
 
