@@ -28,13 +28,13 @@
   highlight: 1
   news2: 
 
-- title: "Genome-wide de novo risk score implicates promoter variation in autism spectrum disorder"
-  image: An2018.gif
+- title: "CANet: Context aware network for 3D brain tumor segmentation"
+  image: Liu2021.png
   description: 
   authors: 
   link:
-    url: https://science.sciencemag.org/content/362/6420/eaat6576.long
-    display:  An et al. Science (2018)
+    url: https://ieeexplore.ieee.org/document/9378564/authors#authors
+    display:  Liu et al. Science (2021). [[Source Code](https://github.com/ZhihuaLiuEd/canetbrats)]
   highlight: 1
   news2: 
 
