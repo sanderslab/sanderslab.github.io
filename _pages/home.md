@@ -8,6 +8,7 @@ permalink: /
 
 # Welcome to BIPL Lab at UoL
 
+![]({{ site.url }}{{ site.baseurl }}/images/lab_home.jpeg){: style="width: 270px; float: left;margin-right: 20px; border: 10px"}
 
 
 The Sanders Lab aims to identify the etiology of developmental disorders through the discovery of genetic risk factors. Over the past few years there has been rapid progress in identifying the genes that play a role in autism spectrum disorder (ASD). We aim to continue this progress, leverage these findings to build a more complete understanding of ASD, and to extend this approach to other human disorders, including congenital malformations.
