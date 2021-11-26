@@ -18,13 +18,13 @@
   highlight: 1
   news2: 
 
-- title: "Whole‐Brain Image Analysis and Anatomical Atlas 3D Generation Using MagellanMapper"
-  image: Young2020.jpg
+- title: "Multi-view mouse social behaviour recognition with deep graphical model"
+  image: jiang2021.png
   description: 
   authors: 
   link:
-    url: https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpns.104
-    display: Young et al. Current Protocols in Neuroscience (2020)
+    url: https://ieeexplore.ieee.org/document/9444134
+    display: Jiang et al. IEEE Trans. on Image Processing (2021). [[Source Code](https://github.com/ZhehengJiang/MV-LADDM)]
   highlight: 1
   news2: 
 
@@ -98,12 +98,3 @@
   highlight: 1
   news2: 
 
-- title: "Multiple Recurrent De Novo CNVs, Including Duplications of the 7q11.23 Williams Syndrome Region, Are Strongly Associated with Autism"
-  image: Sanders2011.png
-  description: 
-  authors: 
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0896627311003746
-    display:  Sanders et al. Neuron (2011)
-  highlight: 1
-  news2: 
