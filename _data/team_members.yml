@@ -16,6 +16,12 @@
   url: fangchen
   group: 1
   
+- name: Honghu Du
+  photo: bio-photo.jpg
+  info: PhD Candidate
+  url: hongdu 
+  group: 1
+  
 - name: Feixiang Zhou
   photo: fxz.jpg
   info: PhD Candidate
@@ -33,12 +39,24 @@
   info: Graduate Teaching Assistant
   url: leitong
   group: 1
-
-- name: Alessandra Aguilar
-  photo: alessandraaguilar.jpg
-  info: Staff Research Associate
-  url: alessandraaguilar
-  group: 2
+  
+- name: Xinyu Yang
+  photo: bio-photo.jpg
+  info: co-supervised with Dr. Ng Leong
+  url: xinyu 
+  group: 1
+  
+- name: Benjamin Cham
+  photo: bio-photo.jpg
+  info: co-supervised with Dr. Reza Zare
+  url: bencham
+  group: 1
+  
+- name: Tengyue Li
+  photo: bio-photo.jpg
+  info: Visiting PhD student (OUC)
+  url: tengyue
+  group: 1
 
 - name: Aileen Poquiz
   photo: aileenpoquiz.jpg
