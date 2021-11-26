@@ -58,10 +58,10 @@
   url: tengyue
   group: 1
 
-- name: Aileen Poquiz
-  photo: aileenpoquiz.jpg
-  info: Administrative Officer
-  url: aileenpoquiz
+- name: Jialin Lyu
+  photo: bio-photo.jpg
+  info: co-supervised with Prof. Eugene Zhang
+  url: jialin
   group: 2
       
 - name: Michael Gilson
