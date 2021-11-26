@@ -59,43 +59,43 @@
   highlight: 1
   news2: 
 
-- title: "Insights into Autism Spectrum Disorder Genomic Architecture and Biology from 71 Risk Loci"
-  image: Sanders2015.png
+- title: "An integrated navigation method based on an adaptive Federal Kalman Filter for rice transplanter"
+  image: liaoj2021.png
   description: 
   authors: 
   link:
-    url: https://www.ncbi.nlm.nih.gov/pubmed/26402605
-    display:  Sanders et al. Neuron (2015)
+    url: https://elibrary.asabe.org/abstract.asp?aid=52073
+    display:  Liao et al. Transaction of the ASABE (2021). 
   highlight: 1
   news2: 
 
-- title: "Synaptic, transcriptional and chromatin genes disrupted in autism"
-  image: DeRubeis2014.png
+- title: "Perceptual underwater image enhancement with deep learning and physical priors"
+  image: chen2021.png
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/nature13772
-    display:  De Rubeis et al. Nature (2014)
+    url: https://ieeexplore.ieee.org/document/9245532
+    display: Chen et al. IEEE Trans. on Circuits and Systems for Video Technology (2021). [[Source Code](https://github.com/LongChenCV/HybridDetectionGAN)]
   highlight: 1
   news2: 
 
-- title: "The contribution of de novo coding mutations to autism spectrum disorder"
-  image: Iossifov2014.png
+- title: "Privacy-aware PKI Model with strong forward security"
+  image: lifengyin2021.png
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/nature13908
-    display:  Iossifov et al. Nature (2014)
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22283
+    display:  Li et al.  International Journal of Intelligent Systems (2021).
   highlight: 1
   news2: 
 
-- title: "De novo mutations revealed by whole-exome sequencing are strongly associated with autism"
-  image: Sanders2012.png
+- title: "Component-based feature saliency for clustering"
+  image: hong2021.png
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/nature10945
-    display:  Sanders et al. Nature (2012)
+    url: https://ieeexplore.ieee.org/document/8809812
+    display:  Hong et al.  IEEE Trans. on Knowledge and Data Engineering (2012). [[Source Code](https://github.com/XHongs/Component-based-Feature-Saliency-for-Clustering)]
   highlight: 1
   news2: 
 
