@@ -38,7 +38,7 @@ We are grateful for funding from UK EPSRC, ESRC, AHRC, MRC, EU ICT, Royal Societ
 <figure class="third">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logo1.png" style="width: 150px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logo2.png" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo3.png" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo4.png" style="width: 150px">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo 5.jpeg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo6.png" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo7.jpg" style="width: 200px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo5.png" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo6.png" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo7.jpg" style="width: 200px">
 </figure>
 
 
