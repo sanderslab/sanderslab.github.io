@@ -1,38 +1,38 @@
 - name: Huiyu Zhou
-  photo: stephansanders.jpg
+  photo: huiyuzhou.jpg
   info: Professor
   url: huiyuzhou
   group: 0
   
-- name: Shan Dong
-  photo: shandong.jpg
-  info: Postdoctoral Scholar
-  url: shandong
+- name: Long Chen
+  photo: lc.jpg
+  info: PhD Candidate
+  url: longchen
   group: 1
 
-- name: Brooke Sheppard
-  photo: brookesheppard.jpg
-  info: Postdoctoral Scholar
-  url: brookesheppard
+- name: Fang Chen
+  photo: bio-photo.jpg
+  info: PhD Candidate
+  url: fangchen
   group: 1
   
-- name: David Young
-  photo: davidyoung.jpg
-  info: Postdoctoral Scholar
-  url: davidyoung
+- name: Feixiang Zhou
+  photo: fxz.jpg
+  info: PhD Candidate
+  url: feixiang
   group: 1
 
-- name: Nick Page
-  photo: nickpage.jpg
-  info: Graduate Student
-  url: nickpage
+- name: Zhihua Liu
+  photo: zhihua.png
+  info: Graduate Teaching Assistant
+  url: zhihua
   group: 1
 
-- name: Clif Duhn
-  photo: clifduhn.jpg
-  info: Laboratory Manager
-  url: clifduhn
-  group: 2
+- name: Lei Tong
+  photo: leitong.jpg
+  info: Graduate Teaching Assistant
+  url: leitong
+  group: 1
 
 - name: Alessandra Aguilar
   photo: alessandraaguilar.jpg
