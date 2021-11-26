@@ -4,7 +4,7 @@
   authors: 
   link:
     url: https://www.nature.com/articles/s41586-021-03573-5.pdf
-    display:  Yu et al. Nature (2021) [Source Code](https://github.com/zhaoaite/dynamic_thresholding_algorithm)
+    display:  Yu et al. Nature (2021). [[Source Code](https://github.com/zhaoaite/dynamic_thresholding_algorithm)]
   highlight: 1
   news2: 
 
@@ -14,7 +14,7 @@
   authors: 
   link:
     url: https://ieeexplore.ieee.org/document/9492104
-    display:  Zhou et al. IEEE Trans. on Circuits and Systems for Video Technology (2021) [Source Code](https://github.com/FeixiangZhou/GM-SCENet)
+    display:  Zhou et al. IEEE Trans. on Circuits and Systems for Video Technology (2021). [[Source Code](https://github.com/FeixiangZhou/GM-SCENet)]
   highlight: 1
   news2: 
 
