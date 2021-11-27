@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - News"
+title: "BIPL Lab - News"
 layout: textlay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "BIPL Lab at UoL."
 sitemap: false
 permalink: /allnews.html
 ---
