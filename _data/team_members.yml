@@ -52,141 +52,133 @@
   url: bencham
   group: 1
   
+- name: Shiyi Zhang
+  photo: bio-photo.jpg
+  info: 2nd supervisor, with Dr. Yimei Zhu
+  url: shiyi
+  group: 1
+
+- name: Zhenyang Li
+  photo: bio-photo.jpg
+  info: 2nd supervisor, with Prof. Lu Liu
+  url: zhenyang
+  group: 1
+  
 - name: Tengyue Li
   photo: bio-photo.jpg
   info: Visiting PhD student (OUC)
   url: tengyue
   group: 1
-
+ 
 - name: Jialin Lyu
   photo: bio-photo.jpg
   info: co-supervised with Prof. Eugene Zhang
   url: jialin
   group: 2
       
-- name: Michael Gilson
-  photo: michaelgilson.jpg
-  info: Bioinformatics Programmer III
-  url: michaelgilson
+- name: Jacob Bretherick
+  photo: bio-photo.jpg
+  info: Research Assistant
+  url: 
   group: 3
 
-- name: Lindsay Liang
-  photo: lindsayliang.jpg
-  info: Bioinformatics Programmer II
-  url: lindsayliang
+- name: Dr. Nebrase Elmrabit
+  photo: bio-photo.jpg
+  info: Research Associate
+  url: 
   group: 3
 
-- name: Aparna Kumar
-  photo: aparnakumar.jpg
-  info: Undergraduate Research Volunteer
-  url: aparnakumar
+- name: Dr. Yi Niu
+  photo: bio-photo.jpg
+  info: Academic visitor (SDNU)
+  url: 
   group: 4
 
-- name: Mai Nojima
-  photo: mainojima.jpg
-  info: Undergraduate Research Volunteer
-  url: mainojima
-  group: 8
-  year: 2017-2020
-  current: Medical Student at Kaiser Permanente Bernard J. Tyson School of Medicine
+- name: Dr. Yuxiao Yang
+  photo: bio-photo.jpg
+  info: Academic visitor (NUAA)
+  url: 
+  group: 4
 
-- name: Donna Werling
-  photo: donnawerling.jpg
-  info: Postdoctoral Scholar
-  url: donnawerling
+- name: Dr. Zheheng Jiang
+  photo: bio-photo.jpg
+  info: PhD student (co-supervised with Dr. Michael Hoffmann)
+  url: 
   group: 8
-  year: 2015-2019
-  current: Assistant Professor of Genetics, University of Wisconsin-Madison
-  extlink: https://werling.genetics.wisc.edu/
+  year: 1/2018-10/2020
+  current: RA at Lancaster University
+  extlink: 
   
-- name: Joon An
-  photo: joonan.jpg
-  info: Postdoctoral Scholar
-  url: joonan
+- name: Christodoulos Rafael Ktiskakis
+  photo: bio-photo.jpg
+  info: 2nd supervisor, with Prof. Rajeev Raman
+  url: 
   group: 8
-  year: 2015-2019
-  current: Assistant Professor, School of Biosystem and Biomedical Science, Korea University
-  extlink: https://joonanlab.github.io/
+  year: 2018-2020
+  current: 
+  extlink: 
 
-- name: Grace Schwartz
-  photo: graceschwartz.jpg
-  info: Staff Research Associate
-  url: graceschwartz
+- name: Aite Zhao
+  photo: bio-photo.jpg
+  info: Visiting PhD student (OUC)
+  url: 
   group: 8
-  year: 2016-2019
-  current: Research Technologist at Ann and Robert Lurie Children’s Hospital of Chicago
-
-- name: Sindy Law
-  photo: sindylaw.jpg
-  info: Database Architect
-  url: sindylaw
-  group: 8
-  year: 2015-2019
-  current: Institutional Research Analyst, UCSF School of Dentistry
-
-- name: Claudia Dastmalchi
-  photo: claudiaddastmalchi.jpg
-  info: Bioinformatics Programmer
-  url: claudiaddastmalchi
-  group: 8
-  year: 2017-2019
-  current: Bioinformatics Software Engineer at Ambry Genetics
-
-- name: Deniz Yuruk
-  photo: denizyuruk.jpg
-  info: Visiting Scholar
-  url: denizyuruk
-  group: 8
-  year: 2017-2018
-  
-- name: Louw Smith
-  info: Data Operations Manager
-  url: louwsmith
-  group: 8
-  year: 2015-2016
-  current: Instructor, Brandeis University
-  extlink: https://www.brandeis.edu/facultyguide/person.html?emplid=decdc7873f5dc5d7658c2fbabd70047fd7d9cab0
-
-- name: Eddie Gao
-  info: Summer Intern
-  url: eddiegao
-  group: 8
-  year: 2017
-  current: Undergraduate, UC Berkeley
-
-- name: Alexandria Alpy
-  info: Summer Intern
-  url: alexandriaalpy
-  group: 8
-  year: 2017
-  current: Ohio State University
-
-- name: Flora Zhao
-  info: High School Research Volunteer
-  url: florazhao
-  group: 8
-  year: 2017
+  year: 12/2018-12/2019
   current: 
 
-- name: Jason Zhao
-  info: High School Research Volunteer
-  url: jasonzhao
+- name: Dr. Weiye Xu
+  photo: bio-photo.jpg
+  info: Academic visitor (NJIT). Co-hosted with Prof. Reiko Heckel.
+  url: 
   group: 8
-  year: 2017
+  year:  3/2019-2/2020
+  current: 
+  
+- name: Dr. Changkui Lyu
+  photo: bio-photo.jpg
+  info: Academic visitor (NUAA). Co-hosted with Prof. Reiko Heckel.
+  url: 
+  group: 8
+  year: 9/2018-9/2019
+  current: 
+  
+  
+- name: Dr. Juan Liao
+  photo: bio-photo.jpg
+  info: Academic visitor (AAU)
+  url: 
+  group: 8
+  year: 12/2019-12/2020
+  current: 
+  
+- name: Prof. Xin Wang
+  photo: bio-photo.jpg
+  info: Academic visitor (HHU)
+  url: 
+  group: 8
+  year: 9/2019-9/2020
+  current: 
+  
+- name: Prof. Yong Hu,
+  photo: bio-photo.jpg
+  info: Academic visitor (HKU).
+  url: 
+  group: 8
+  year: 5/2019
+  current: 
+  
+- name: Dr. Yiming Xu
+  photo: bio-photo.jpg
+  info: Academic visitor (NUAA)
+  url: 
+  group: 8
+  year: 8/2019-8/2020
   current: 
 
-- name: Carmen Sandoval
-  info: Neuroscience Rotation Student
-  url: carmensandoval
+- name: Prof. Fengyin Li
+  photo: bio-photo.jpg
+  info: Academic visitor (QFNU)
+  url: 
   group: 8
-  year: 2018
-  current: Neuroscience Graduate Program, UCSF
-
-- name: Immanuel Zion
-  info: Summer Intern
-  url: immanuelzion
-  group: 8
-  year: 2018
-  current: Bard College
-  
- 
+  year: 9/2019-9/2020
+  current: 
