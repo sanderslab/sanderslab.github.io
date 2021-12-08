@@ -1,7 +1,7 @@
 ---
 title: "BIPL Lab - Home"
 layout: homelay
-excerpt: "BIPL Lab at UCSF."
+excerpt: "BIPL Lab at UoL."
 sitemap: false
 permalink: /
 ---

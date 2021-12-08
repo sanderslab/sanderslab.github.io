@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - About"
+title: "BIPL Lab - About"
 layout: textlay
-excerpt: "Sanders Lab -- About"
+excerpt: "BIPL Lab -- About"
 sitemap: false
 permalink: /about/
 ---
