@@ -45,18 +45,6 @@
   info: co-supervised with Dr. Ng Leong
   url: xinyu 
   group: 1
-  
-- name: Benjamin Cham
-  photo: bio-photo.jpg
-  info: co-supervised with Dr. Reza Zare
-  url: bencham
-  group: 1
-  
-- name: Shiyi Zhang
-  photo: bio-photo.jpg
-  info: 2nd supervisor, with Dr. Yimei Zhu
-  url: shiyi
-  group: 1
 
 - name: Zhenyang Li
   photo: bio-photo.jpg
@@ -69,6 +57,18 @@
   info: Visiting PhD student (OUC)
   url: tengyue
   group: 1
+  
+- name: Benjamin Cham
+  photo: bio-photo.jpg
+  info: co-supervised with Dr. Reza Zare
+  url: bencham
+  group: 9
+  
+- name: Shiyi Zhang
+  photo: bio-photo.jpg
+  info: 2nd supervisor, with Dr. Yimei Zhu
+  url: shiyi
+  group: 9
  
 - name: Jialin Lyu
   photo: bio-photo.jpg
