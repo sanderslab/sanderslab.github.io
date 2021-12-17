@@ -45,17 +45,17 @@
   info: co-supervised with Dr. Ng Leong
   url: xinyu 
   group: 1
-
-- name: Zhenyang Li
-  photo: bio-photo.jpg
-  info: 2nd supervisor, with Prof. Lu Liu
-  url: zhenyang
-  group: 1
   
 - name: Tengyue Li
   photo: 666.jpg
   info: Visiting PhD student (OUC)
   url: tengyue
+  group: 1
+  
+- name: Yoav Alon
+  photo: bio-photo.jpg
+  info: co-supervised with Prof. Rajeev Raman)
+  url: 
   group: 1
   
 - name: Benjamin Cham
@@ -68,6 +68,24 @@
   photo: bio-photo.jpg
   info: 2nd supervisor, with Dr. Yimei Zhu
   url: shiyi
+  group: 9
+
+- name: Zhenyang Li
+  photo: bio-photo.jpg
+  info: 2nd supervisor, with Prof. Lu Liu
+  url: zhenyang
+  group: 9
+  
+- name: LiJia Deng
+  photo: bio-photo.jpg
+  info: 2nd supervisor, with Prof. Eugene Zhang
+  url: 
+  group: 9
+  
+- name: Thais Portilho
+  photo: bio-photo.jpg
+  info: 2nd supervisor, with Dr. Fer-Jan De Vries
+  url: 
   group: 9
  
 - name: Jialin Lyu
