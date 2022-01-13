@@ -10,12 +10,6 @@
   url: shandong
   group: 1
 
-- name: Brooke Sheppard
-  photo: brookesheppard.jpg
-  info: Postdoctoral Scholar
-  url: brookesheppard
-  group: 1
-  
 - name: David Young
   photo: davidyoung.jpg
   info: Postdoctoral Scholar
@@ -46,23 +40,32 @@
   url: aileenpoquiz
   group: 2
       
-- name: Michael Gilson
-  photo: michaelgilson.jpg
-  info: Bioinformatics Programmer III
-  url: michaelgilson
-  group: 3
-
 - name: Lindsay Liang
   photo: lindsayliang.jpg
   info: Bioinformatics Programmer II
   url: lindsayliang
   group: 3
 
+- name: Michael Gilson
+  photo: michaelgilson.jpg
+  info: Bioinformatics Programmer III
+  url: michaelgilson
+  group: 8
+  year: 2015-2021
+
+- name: Brooke Sheppard
+  photo: brookesheppard.jpg
+  info: Postdoctoral Scholar
+  url: brookesheppard
+  group: 8
+  year: 2017-2021
+  
 - name: Aparna Kumar
   photo: aparnakumar.jpg
   info: Undergraduate Research Volunteer
   url: aparnakumar
-  group: 4
+  group: 8
+  year: 2021
 
 - name: Mai Nojima
   photo: mainojima.jpg
