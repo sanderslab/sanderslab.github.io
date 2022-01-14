@@ -54,7 +54,7 @@
   
 - name: Yoav Alon
   photo: bio-photo.jpg
-  info: co-supervised with Prof. Rajeev Raman)
+  info: Grduate Teaching Assistant
   url: 
   group: 1
   
@@ -62,7 +62,7 @@
   photo: bio-photo.jpg
   info: co-supervised with Dr. Reza Zare
   url: bencham
-  group: 9
+  group: 1
   
 - name: Shiyi Zhang
   photo: bio-photo.jpg
@@ -109,6 +109,12 @@
 - name: Dr. Yi Niu
   photo: bio-photo.jpg
   info: Academic visitor (SDNU)
+  url: 
+  group: 4
+  
+- name: Prof. Qin Qin
+  photo: bio-photo.jpg
+  info: Academic visitor (Three Gorges University of China)
   url: 
   group: 4
 
