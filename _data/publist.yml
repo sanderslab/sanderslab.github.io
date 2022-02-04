@@ -1,3 +1,23 @@
+- title: "Cost-sensitive boosting pruning trees for depression detection on Twitter"
+  image: Tong2022.png
+  description: 
+  authors: 
+  link:
+    url: https://ieeexplore.ieee.org/document/9691852
+    display:  Tong et al. IEEE Trans. on Affective Computing. (2022). [[Source Code](https://github.com/BIPL-UoL/Cost-Boosting-Pruning-Trees-for-depression-detection-on-Twitter)]
+  highlight: 1
+  news2: 
+  
+- title: "Dynamic multi-key FHE in asymmetric key setting from LWE"
+  image: ChenY2021.png
+  description: 
+  authors: 
+  link:
+    url: https://www.techrxiv.org/articles/preprint/Dynamic_multi-key_FHE_in_asymmetric_key_setting_from_LWE/16680853
+    display:  Chen et al. IEEE Trans. on Information Forensics & Security (2021). [[Source Code]()]
+  highlight: 1
+  news2: 
+
 - title: "MARK4 controls ischaemic heart failure through microtubule detyrosination"
   image: yu_nature.png
   description: 
@@ -59,16 +79,6 @@
   highlight: 1
   news2: 
 
-- title: "An integrated navigation method based on an adaptive Federal Kalman Filter for rice transplanter"
-  image: liaoj2021.png
-  description: 
-  authors: 
-  link:
-    url: https://elibrary.asabe.org/abstract.asp?aid=52073
-    display:  Liao et al. Transaction of the ASABE (2021). 
-  highlight: 1
-  news2: 
-
 - title: "Perceptual underwater image enhancement with deep learning and physical priors"
   image: chen2021.png
   description: 
@@ -76,16 +86,6 @@
   link:
     url: https://ieeexplore.ieee.org/document/9245532
     display: Chen et al. IEEE Trans. on Circuits and Systems for Video Technology (2021). [[Source Code](https://github.com/LongChenCV/HybridDetectionGAN)]
-  highlight: 1
-  news2: 
-
-- title: "Privacy-aware PKI Model with strong forward security"
-  image: lifengyin2021.png
-  description: 
-  authors: 
-  link:
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22283
-    display:  Li et al.  International Journal of Intelligent Systems (2021).
   highlight: 1
   news2: 
 
