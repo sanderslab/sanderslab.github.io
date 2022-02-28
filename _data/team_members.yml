@@ -126,7 +126,7 @@
 
 - name: Dr. Yi Niu
   photo: bio-photo.jpg
-  info: Academic visitor (SDNU)
+  info: Academic visitor (Shandong Normal University)
   url: 
   group: 4
   
@@ -138,7 +138,13 @@
 
 - name: Dr. Yuxiao Yang
   photo: bio-photo.jpg
-  info: Academic visitor (NUAA)
+  info: Academic visitor (Nanjing University of Aeronautics and Astronautics)
+  url: 
+  group: 4
+  
+- name: Dr. Nan Xin
+  photo: bio-photo.jpg
+  info: Academic visitor (Xian University of Technology)
   url: 
   group: 4
 
