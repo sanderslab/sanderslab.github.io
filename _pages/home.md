@@ -6,11 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to Kolachalama laboratory
-
-
 ![]({{ site.url }}{{ site.baseurl }}/images/latest_collage.png){: style="width: 600px; float: left;margin-right: 20px; border: 10px"}
-
 
 
 Our laboratory is interested in the development and validation of novel machine learning algorithms that can tackle multimodal data ranging from magnetic resonance imaging scans to voice recordings of individuals. 
@@ -25,7 +21,7 @@ We are also interested in the following questions that have scientific/computati
 1. **Domain generalization** -- How can we construct deep neural networks that can learn from multimodal data and generalize well across multiple data cohorts? 
 2. **Representation learning** -- How can we create efficient neural models of high resolution data to process local and contextual information?
 
-### Joining Kolachalama laboratory
+### Joining our laboratory
 We form small teams comprising individuals with complementary expertise and work persistently to build comprehensive solutions. If you are interested in joining us, then we encourage you to contact an active lab member and talk about your interests. 
 
 ### Funding
