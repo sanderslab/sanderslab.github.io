@@ -26,7 +26,7 @@ We are also interested in the following questions that have scientific/computati
 2. **Representation learning** -- How can we create efficient neural models of high resolution data to process local and contextual information?
 
 ### Joining Kolachalama laboratory
-Our formula for success is simple. We create small teams with complementary expertise and work persistently to build comprehensive solutions. If you are interested in joining us, then we encourage you to contact an active lab member and talk about your interests. 
+We form small teams comprising individuals with complementary expertise and work persistently to build comprehensive solutions. If you are interested in joining us, then we encourage you to contact an active lab member and talk about your interests. 
 
 ### Funding
 We are grateful for funding from the [American Heart Association](https://www.heart.org), the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov), the [National Cancer Institute](https://www.cancer.gov), and the [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov). We also thank the [Karen Toffler Charitable Trust](https://tofflertrust.org) for funding our work.
