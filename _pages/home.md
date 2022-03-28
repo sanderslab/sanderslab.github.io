@@ -9,7 +9,7 @@ permalink: /
 # Welcome to Kolachalama laboratory
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/latest_collage.png){: style="width: 1000px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/latest_collage.png){: style="width: 600px; float: left;margin-right: 20px; border: 10px"}
 
 
 Our laboratory is interested in the development and validation of novel machine learning algorithms that can tackle multimodal data ranging from magnetic resonance imaging scans to voice recordings of individuals. We are currently interested in the following questions:
