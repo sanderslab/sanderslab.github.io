@@ -14,8 +14,8 @@ permalink: /
 
 We are currently interested in the following questions:
 
-1. **Neurodegeneration**: How can we develop clinical-grade software frameworks that can assist with diagnosing dementia in various settings? 
-2. **Understanding the noncoding genome**: Using whole-genome sequencing to identify the elements of the noncoding genome that contribute to ASD
+1. **Neurodegeneration** -- How can we develop software frameworks that can assist with diagnosing dementia in various settings? 
+2. **Digital pathology** -- How can be build clinical-grade tools to assist the pathologist?
 
 ### Technologies and methods
 We develop and validate novel machine learning algorithms that can tackle multimodal data ranging from magnetic resonance imaging scans to voice recordings of individuals.
@@ -23,7 +23,7 @@ We develop and validate novel machine learning algorithms that can tackle multim
 ### Collaborators
 We work with closely with numerous collaborators.
 
-### Joining Sanders Lab
+### Joining Kolachalama laboratory
 If you are interested in joining please contact the PI or any active lab member.
 
 ### Funding
