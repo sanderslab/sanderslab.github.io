@@ -1,13 +1,13 @@
 ---
-title: "Sanders Lab - Team"
+title: "Kolachalama laboratory - Team"
 layout: gridlay
-excerpt: "Sanders Lab: Team members"
+excerpt: "Kolachalama laboratory: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Team Members
-(Please click the name below for the lab memeber's profile)
+(Please click the name below for the lab member's profile)
 
 
 ---
