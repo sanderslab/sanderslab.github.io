@@ -2,7 +2,7 @@
   headline: <a href='https://www.linkedin.com/in/dianazhang1806/?originalSubdomain=au'>Diana Zhang</a>, a Fulbright Scholar from the University of New South Wales joins us for a 4-month internship."
   
 - date: December 2021
-  headline: "<a href='https://www.linkedin.com/in/xiao-zhou-24a43713a/'>Xiao Zhou</a> defends his PhD in Computer Science and heads to <a href='http://www.gersteinlab.org'>Gerstein lab</a> at Yale University."
+  headline: "<a href='https://www.linkedin.com/in/xiao-zhou-24a43713a/'>Xiao Zhou</a> defends his PhD in Computer Science and starts his postdoctoral research at the <a href='http://www.gersteinlab.org'>Gerstein lab</a> at Yale University."
 
 - date: December 2021
   headline: "New paper! We developed <a href='https://doi.org/10.1002/art.41808'>subchondral bone length</a>, a new imaging measure for knee osteoarthritis, published in Arthritis & Rheumatology."
@@ -21,3 +21,6 @@
 
 - date: August 2020
   headline: "New grant! We received an <a href='https://reporter.nih.gov/search/XilJ5sKY3kCjCO_zfNIK6w/project-details/10059031'>R21 grant</a> from the NCI.
+  
+- date: June 2020
+  headline: "New paper! An interpretable <a href='https://doi.org/10.1093/brain/awaa137'>interpretable deep learning framework</a> for Alzheimer's disease classification, published in Brain."
