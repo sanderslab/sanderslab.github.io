@@ -1,177 +1,22 @@
-- name: Stephan Sanders
-  photo: stephansanders.jpg
-  info: Associate Professor
-  url: stephansanders
+- name: Vijaya B. Kolachalama
+  photo: vkola.jpeg
+  info: Assistant Professor
+  url: 
   group: 0
   
-- name: Shan Dong
-  photo: shandong.jpg
+- name: Prajakta S. Joshi
+  photo: 
   info: Postdoctoral Scholar
-  url: shandong
+  url: 
   group: 1
 
-- name: David Young
-  photo: davidyoung.jpg
+  extlink: https://www.linkedin.com/in/prajakta-joshi-79520a116/
+  
+- name: Michael F. Romano
+  photo: 
   info: Postdoctoral Scholar
-  url: davidyoung
+  url: 
   group: 1
 
-- name: Nick Page
-  photo: nickpage.jpg
-  info: Graduate Student
-  url: nickpage
-  group: 1
+  extlink: https://scholar.google.com/citations?user=WeaMpL0AAAAJ&hl=en&oi=ao
 
-- name: Clif Duhn
-  photo: clifduhn.jpg
-  info: Laboratory Manager
-  url: clifduhn
-  group: 2
-
-- name: Alessandra Aguilar
-  photo: alessandraaguilar.jpg
-  info: Staff Research Associate
-  url: alessandraaguilar
-  group: 2
-
-- name: Aileen Poquiz
-  photo: aileenpoquiz.jpg
-  info: Administrative Officer
-  url: aileenpoquiz
-  group: 2
-      
-- name: Lindsay Liang
-  photo: lindsayliang.jpg
-  info: Bioinformatics Programmer II
-  url: lindsayliang
-  group: 3
-
-- name: Michael Gilson
-  photo: michaelgilson.jpg
-  info: Bioinformatics Programmer III
-  url: michaelgilson
-  group: 8
-  year: 2015-2021
-
-- name: Brooke Sheppard
-  photo: brookesheppard.jpg
-  info: Postdoctoral Scholar
-  url: brookesheppard
-  group: 8
-  year: 2017-2021
-  
-- name: Aparna Kumar
-  photo: aparnakumar.jpg
-  info: Undergraduate Research Volunteer
-  url: aparnakumar
-  group: 8
-  year: 2021
-
-- name: Mai Nojima
-  photo: mainojima.jpg
-  info: Undergraduate Research Volunteer
-  url: mainojima
-  group: 8
-  year: 2017-2020
-  current: Medical Student at Kaiser Permanente Bernard J. Tyson School of Medicine
-
-- name: Donna Werling
-  photo: donnawerling.jpg
-  info: Postdoctoral Scholar
-  url: donnawerling
-  group: 8
-  year: 2015-2019
-  current: Assistant Professor of Genetics, University of Wisconsin-Madison
-  extlink: https://werling.genetics.wisc.edu/
-  
-- name: Joon An
-  photo: joonan.jpg
-  info: Postdoctoral Scholar
-  url: joonan
-  group: 8
-  year: 2015-2019
-  current: Assistant Professor, School of Biosystem and Biomedical Science, Korea University
-  extlink: https://joonanlab.github.io/
-
-- name: Grace Schwartz
-  photo: graceschwartz.jpg
-  info: Staff Research Associate
-  url: graceschwartz
-  group: 8
-  year: 2016-2019
-  current: Research Technologist at Ann and Robert Lurie Children’s Hospital of Chicago
-
-- name: Sindy Law
-  photo: sindylaw.jpg
-  info: Database Architect
-  url: sindylaw
-  group: 8
-  year: 2015-2019
-  current: Institutional Research Analyst, UCSF School of Dentistry
-
-- name: Claudia Dastmalchi
-  photo: claudiaddastmalchi.jpg
-  info: Bioinformatics Programmer
-  url: claudiaddastmalchi
-  group: 8
-  year: 2017-2019
-  current: Bioinformatics Software Engineer at Ambry Genetics
-
-- name: Deniz Yuruk
-  photo: denizyuruk.jpg
-  info: Visiting Scholar
-  url: denizyuruk
-  group: 8
-  year: 2017-2018
-  
-- name: Louw Smith
-  info: Data Operations Manager
-  url: louwsmith
-  group: 8
-  year: 2015-2016
-  current: Instructor, Brandeis University
-  extlink: https://www.brandeis.edu/facultyguide/person.html?emplid=decdc7873f5dc5d7658c2fbabd70047fd7d9cab0
-
-- name: Eddie Gao
-  info: Summer Intern
-  url: eddiegao
-  group: 8
-  year: 2017
-  current: Undergraduate, UC Berkeley
-
-- name: Alexandria Alpy
-  info: Summer Intern
-  url: alexandriaalpy
-  group: 8
-  year: 2017
-  current: Ohio State University
-
-- name: Flora Zhao
-  info: High School Research Volunteer
-  url: florazhao
-  group: 8
-  year: 2017
-  current: 
-
-- name: Jason Zhao
-  info: High School Research Volunteer
-  url: jasonzhao
-  group: 8
-  year: 2017
-  current: 
-
-- name: Carmen Sandoval
-  info: Neuroscience Rotation Student
-  url: carmensandoval
-  group: 8
-  year: 2018
-  current: Neuroscience Graduate Program, UCSF
-
-- name: Immanuel Zion
-  info: Summer Intern
-  url: immanuelzion
-  group: 8
-  year: 2018
-  current: Bard College
-  
- 
