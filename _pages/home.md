@@ -18,7 +18,7 @@ Our laboratory is interested in the development and validation of novel machine 
 2. **Digital pathology** -- How can be build clinical-grade software tools to complement the pathologist?
 
 ### Joining Kolachalama laboratory
-If you are interested in joining please contact the PI or any active lab member.
+If you are interested in joining, please contact the PI or any active lab member.
 
 ### Funding
 We are grateful for funding from the [American Heart Association](https://www.heart.org), the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov), the [National Cancer Institute](https://www.cancer.gov), and the [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov). We also thank the [Karen Toffler Charitable Trust](https://tofflertrust.org) for funding our work.
