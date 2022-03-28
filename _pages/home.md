@@ -16,7 +16,7 @@ We are currently interested in the following questions that have clinical releva
 1. **Neurodegeneration** -- How can we develop software frameworks that can assist dementia screening in various settings? 
 2. **Digital pathology** -- How can we build clinical-grade software tools to complement the pathologist workflow?
 
-We are also interested in the following questions that have scientific/computational relevance:
+We are also interested in the following questions that have computational relevance:
 
 1. **Domain generalization** -- How can we construct deep neural networks that can learn from multimodal data and generalize well across multiple data cohorts? 
 2. **Representation learning** -- How can we create efficient neural models of high resolution data to process local and contextual information?
