@@ -1,3 +1,13 @@
+- title: "Subchondral Bone Length in Knee Osteoarthritis: A Deep Learning–Derived Imaging Measure and Its Association With Radiographic and Clinical Outcomes"
+  image: Chang2020.png
+  description: 
+  authors: 
+  link:
+    url: https://doi.org/10.1002/art.41808
+    display: Chang et al. Arthritis & Rheumatology (2021)
+  highlight: 1
+  news2: 
+
 - title: "Development and validation of an interpretable deep learning framework for Alzheimer's disease classification"
   image: Qiu2020.jpeg
   description: 
@@ -8,13 +18,13 @@
   highlight: 1
   news2: 
 
-- title: "Subchondral Bone Length in Knee Osteoarthritis: A Deep Learning–Derived Imaging Measure and Its Association With Radiographic and Clinical Outcomes"
-  image: Chang2020.png
+- title: "Deep-Learning-Driven Quantification of Interstitial Fibrosis in Digitized Kidney Biopsies"
+  image: Zheng2021.gif
   description: 
   authors: 
   link:
-    url: https://doi.org/10.1002/art.41808
-    display: Chang et al. Arthritis & Rheumatology (2021)
+    url: https://doi.org/10.1016/j.ajpath.2021.05.005
+    display: Zheng et al. The American Journal of Pathology (2021)
   highlight: 1
   news2: 
 
