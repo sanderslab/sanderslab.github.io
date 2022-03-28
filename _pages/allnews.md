@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - News"
+title: "Kolachalama Laboratory - News"
 layout: textlay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "Kolachalama Laboratory."
 sitemap: false
 permalink: /allnews.html
 ---

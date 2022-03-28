@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Code"
+title: "Kolachalama Laboratory - Code"
 layout: textlay
-excerpt: "Sanders Lab -- Code."
+excerpt: "Kolachalama Laboratory -- Code."
 sitemap: false
 permalink: /code/
 ---
@@ -77,7 +77,7 @@ CNVision was written to analyze data for the Simons Simplex Collection autism da
 
 
 ## [Identity check](http://genomic-identity.wikidot.com/)
-​
+
 ​Managing large genomic datasets requires accurate estimation of sample identity. This script rapidly identifies all BAM files and Illumina SNP genotyping FinalReports on a cluster, generates a SNP barcode from each one, and uses BLAT to identify duplicates and/or matches. It is run off aligned, indexed BAM files directly (hg18 or hg19) and FinalReports directly (hg18 or hg19). Cross platform (BAM to FinalReport) and cross genome build (hg18 to hg19) is handled automatically.
 
 - <a href="http://genomic-identity.wikidot.com/"><i class='fa fa-link'></i> Source</a>
@@ -86,7 +86,7 @@ CNVision was written to analyze data for the Simons Simplex Collection autism da
 ---
 
 ## [UNIX treasure hunt tutorial]()
-​
+
 ​<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/th.png" style="width: 200px"> 
 ​
 
@@ -96,5 +96,4 @@ This perl script will install a series of directories and clues that teaches bas
 - <a href="https://www.dropbox.com/s/xw5c1ra4td9k966/Unix_basics.pdf?dl=0"><i class='fa fa-book'></i> Manual</a>
 
 ---
-
 
