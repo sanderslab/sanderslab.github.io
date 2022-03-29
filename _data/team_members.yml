@@ -52,7 +52,7 @@
   url: 
   group: 3
   extlink: 
-
+  
 - name: Diala Lteif
   photo: einstein.svg
   info: PhD student
@@ -109,6 +109,13 @@
   group: 2
   extlink: 
 
+- name: Emily Ha
+  photo: einstein.svg
+  info: MD student
+  url: 
+  group: 2
+  extlink: 
+  
 - name: Muyuan Li
   photo: einstein.svg
   info: Graduate student
@@ -165,6 +172,13 @@
   group: 8
   extlink: 
 
+- name: Gary Chang
+  photo: einstein.svg
+  info: 
+  url: 
+  group: 8
+  extlink: 
+  
 - name: Rushin Gindra
   photo: einstein.svg
   info: 
