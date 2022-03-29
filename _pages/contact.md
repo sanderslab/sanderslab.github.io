@@ -1,5 +1,5 @@
 ---
-title: "Kolachalama Laboratory - Contact"
+title: "Kolachalama laboratory - Contact"
 layout: textlay
 excerpt: "Contact."
 sitemap: false
