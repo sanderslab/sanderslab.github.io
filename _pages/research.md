@@ -11,7 +11,7 @@ permalink: /research/
 ### An interpretable AI model for Alzheimer's disease classification
 ---
 <div class="youtube">
-  <iframe src="https://www.youtube.com/embed/RgqyGPMbJ9w" frameborder="1" width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/RgqyGPMbJ9w" frameborder="1" width="600px" height="500px" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
