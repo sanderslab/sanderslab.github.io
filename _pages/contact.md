@@ -8,8 +8,6 @@ permalink: /contact/
 
 # Contact
 
-## Lab Location
-
 We are located in the Evans Building, BUSM Campus: 72 E. Concord St, Evans 636, Boston, MA - 02118
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px">
