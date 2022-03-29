@@ -189,12 +189,3 @@ permalink: /team/
 
 ## Administrative support
 Please contact our section administrator, <a href="mailto:kharp@bu.edu">Katie Harper</a>.
-
-
-
-
-
-
-
-
-
