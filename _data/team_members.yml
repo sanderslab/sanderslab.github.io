@@ -6,14 +6,35 @@
   
 - name: Prajakta S. Joshi
   photo: 
-  info: Postdoctoral Scholar
+  info: Postdoctoral scholar
   url: 
   group: 1
   extlink: https://www.linkedin.com/in/prajakta-joshi-79520a116/
   
 - name: Michael F. Romano
   photo: 
-  info: Postdoctoral Scholar
+  info: Postdoctoral scholar
   url: 
   group: 1
   extlink: https://scholar.google.com/citations?user=WeaMpL0AAAAJ&hl=en&oi=ao
+  
+- name: Harry Ding
+  photo: 
+  info: Postdoctoral scholar
+  url: 
+  group: 1
+  extlink: 
+  
+- name: Shangran Qiu
+  photo: 
+  info: Graduate student
+  url: 
+  group: 2
+  extlink: https://scholar.google.com/citations?user=AF3UwgEAAAAJ&hl=en&authuser=1
+  
+- name: Chonghua Xue
+  photo: 
+  info: Staff scientist
+  url: 
+  group: 3
+  extlink: https://scholar.google.com/citations?user=f9k4jcMAAAAJ&hl=en&authuser=1
