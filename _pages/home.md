@@ -7,9 +7,7 @@ permalink: /
 ---
 
 ---
-<div class="youtube">
-  <iframe src="https://www.youtube.com/embed/RgqyGPMbJ9w" frameborder="1" width="500pt" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+![]({{ site.url }}{{ site.baseurl }}/images/latest_collage.png){: style="width: 600px; float: left;margin-right: 20px; border: 10px"}
 
 ---
 
