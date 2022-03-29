@@ -6,8 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/latest_collage.png){: style="width: 600px; float: left;margin-right: 20px; border: 10px"}
-
+---
+<div class="youtube">
+<iframe width="450" height="523" src="https://youtu.be/RgqyGPMbJ9w" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+---
 
 Our laboratory is interested in the development and validation of novel machine learning algorithms that can tackle multimodal data ranging from magnetic resonance imaging scans to high resolution microscopy images. 
 
