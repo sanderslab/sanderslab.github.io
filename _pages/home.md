@@ -8,8 +8,9 @@ permalink: /
 
 ---
 <div class="youtube">
-<iframe width="600" src="https://youtu.be/RgqyGPMbJ9w"</iframe>
+  <iframe src="https://www.youtube.com/embed/RgqyGPMbJ9w" frameborder="0" width="500pt" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 ---
 
 Our laboratory is interested in the development and validation of novel machine learning algorithms that can tackle multimodal data ranging from magnetic resonance imaging scans to high resolution microscopy images. 
