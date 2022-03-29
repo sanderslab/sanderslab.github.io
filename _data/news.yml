@@ -1,8 +1,11 @@
 - date: March 2022
   headline: "<a href='https://www.linkedin.com/in/dianazhang1806/?originalSubdomain=au'>Diana Zhang</a>, a Fulbright Scholar from the University of New South Wales joins us for a 4-month internship."
-  
+
 - date: January 2022
-  headline: "New grant! We received a pilot award from the Johnson & Johnson Enterprise Innovation, Inc; Project title - Using deep learning to advance lung cancer interception and early detection."
+  headline: "New paper! <a href='https://doi.org/10.1016/j.molmed.2021.12.004'>Spotlight</a> on subtyping Alzheimer's disease, published in Trends in Molecular Medicine."
+    
+- date: January 2022
+  headline: "New grant! We received a pilot award from the Johnson & Johnson Enterprise Innovation, Inc; Title - Using deep learning to advance lung cancer interception and early detection."
   
 - date: December 2021
   headline: "<a href='https://www.linkedin.com/in/xiao-zhou-24a43713a/'>Xiao Zhou</a> defends his PhD in Computer Science and starts his postdoctoral research at the <a href='http://www.gersteinlab.org'>Gerstein lab</a> at Yale University."
@@ -17,7 +20,7 @@
   headline: "New grant! We received an <a href='https://reporter.nih.gov/search/F3Ou5vEfQEeM-o2ExdWSQw/project-details/10279523'>R01 grant</a> from the National Heart, Lung and Blood Institute."
 
 - date: August 2021
-  headline: "New paper! <a href='https://doi.org/10.1186/s13195-021-00888-3'>Deep learning framework</a> to detect dementia on voice recordings, published in a special issue focused on AI & Dementia in Alzheimer's Research & Therapy."
+  headline: "New paper! <a href='https://doi.org/10.1186/s13195-021-00888-3'>Deep learning framework</a> to detect dementia on voice recordings, published in a special issue on AI & Dementia in Alzheimer's Research & Therapy."
   
 - date: August 2021
   headline: "New paper! <a href='https://doi.org/10.1016/j.ajpath.2021.05.005'>Deep learning framework</a> to predict the grade of kidney fibrosis, published in the American Journal of Pathology."
@@ -25,8 +28,11 @@
 - date: July 2021
   headline: "New grant! We received a <a href='https://www.diacomp.org/shared/showSubContractAbstract.aspx?id=4210'>pilot award</a> from the Diacomp consortium."
 
+- date: June 2021
+  headline: "New paper! <a href='hhttps://doi.org/10.1016/j.xkme.2021.04.012'>Machine learning applications in nephrology</a>, published in Kidney Medicine."
+  
 - date: March 2021
-  headline: "New paper! <a href='https://doi.org/10.1186/s13195-021-00797-5'>Game theory-based deep learning</a> to augment Alzheimer's disease classification, published in a special issue focused on AI & Dementia in Alzheimer's Research & Therapy."
+  headline: "New paper! <a href='https://doi.org/10.1186/s13195-021-00797-5'>Game theory-based deep learning</a> to augment Alzheimer's disease classification, published in a special issue on AI & Dementia in Alzheimer's Research & Therapy."
   
 - date: January 2021
   headline: "New award! <a href='https://tofflertrust.org/dr-vijaya-kolachalama/'>Toffler Scholarship in Neuroscience</a>."
@@ -35,16 +41,31 @@
   headline: "New grant! We received an <a href='https://reporter.nih.gov/search/XilJ5sKY3kCjCO_zfNIK6w/project-details/10059031'>R21 grant</a> from the National Cancer Institute."
   
 - date: June 2020
-  headline: "New paper! An <a href='https://doi.org/10.1093/brain/awaa137'>interpretable deep learning framework</a> for Alzheimer's disease classification, published in Brain."
+  headline: "New paper! <a href='https://doi.org/10.1093/brain/awaa137'>Interpretable deep learning framework</a> for Alzheimer's disease classification, published in Brain."
 
 - date: June 2020
-  headline: "New grant! We received a pilot award from the Johnson & Johnson Enterprise Innovation, Inc; Project title - Biomarkers of lung squamous premalignant progression using deep learning on pathology images."
+  headline: "New grant! We received a pilot award from the Johnson & Johnson Enterprise Innovation, Inc; Title - Biomarkers of lung squamous premalignant progression using deep learning on pathology images."
 
 - date: April 2020
   headline: "New grant! We received a <a href='https://professional.heart.org/en/research-programs/strategically-focused-research/strategically-focused-research-networks/sfrn-awardees'>Strategically Focused Health Technologies & Innovation Research Network</a> grant from the American Heart Association."
     
+- date: February 2020
+  headline: "New paper! <a href='https://doi.org/10.1007/s00330-020-06658-3'>Convolutional Siamese network</a> to predict knee pain, published in European Radiology."
+
+- date: December 2019
+  headline: "New paper! <a href='https://doi.org/10.1016/j.ekir.2019.04.008'>Unsupervised learning</a> to assess Alzheimer's disease, published in Alzheimer's & Dementia (N Y)."
+    
+- date: April 2019
+  headline: "New paper! <a href='https://doi.org/10.1016/j.ekir.2019.04.008'>Glomerular segmentation</a> using deep learning, published in KI Reports."
+  
 - date: September 2018
   headline: "New paper! <a href='https://doi.org/10.1038/s41746-018-0061-1'>Machine learning education in medical schools</a>, published in npj Digital Medicine."
-  
+
+- date: September 2018
+  headline: "New paper! <a href='https://doi.org/10.1016/j.dadm.2018.08.013'>Fusion network</a> to assess mild cognitive impairment, published in Alzheimer's & Dementia (Amst)."
+
+- date: January 2018
+  headline: "New paper! <a href='https://doi.org/10.1016/j.ekir.2017.11.002'>Deep neural network</a> to predict renal survival, published in KI Reports."
+    
 - date: July 2017
   headline: "New grant! We received a <a href='https://www.bumc.bu.edu/compbiomed/2017/08/25/1979/'>Scientist Development Grant</a> from the American Heart Association."
