@@ -1,7 +1,7 @@
 ---
-title: "Kolachalama Laboratory - News"
+title: "Kolachalama laboratory - News"
 layout: textlay
-excerpt: "Kolachalama Laboratory."
+excerpt: "Kolachalama laboratory."
 sitemap: false
 permalink: /allnews.html
 ---
