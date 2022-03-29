@@ -8,7 +8,7 @@ permalink: /
 
 ---
 <div class="youtube">
-<iframe width="450" height="523" src="https://youtu.be/RgqyGPMbJ9w" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe width="600" src="https://youtu.be/RgqyGPMbJ9w"</iframe>
 </div>
 ---
 
