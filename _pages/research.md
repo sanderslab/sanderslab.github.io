@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+## Research
 
 ---
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/brain_path.tif){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}

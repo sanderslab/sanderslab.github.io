@@ -6,7 +6,7 @@ sitemap: false
 permalink: /media/
 ---
 
-# Media
+## Media
 
 ---
 

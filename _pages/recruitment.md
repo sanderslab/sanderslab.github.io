@@ -6,7 +6,7 @@ sitemap: false
 permalink: /recruitment/
 ---
 
-# Open positions
+## Open positions
 
 Thank you for your interest in joining the Kolachalama Laboratory.
 

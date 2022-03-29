@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
+## Publications
 
 ---
 

@@ -6,7 +6,7 @@ sitemap: false
 permalink: /contact/
 ---
 
-# Contact
+## Contact
 
 We are located in the Evans Building, BUSM Campus: 72 E. Concord St, Evans 636, Boston, MA - 02118
 

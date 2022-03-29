@@ -7,7 +7,7 @@ permalink: /code/
 ---
 
 
-# Code
+## Code
 
 ---
 

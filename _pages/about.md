@@ -6,7 +6,7 @@ sitemap: false
 permalink: /about/
 ---
 
-# About this website
+## About this website
 
 Our website is based on the open source templates designed and shared by [Sanders](https://sanderslab.github.io) lab. We downloaded source codes from their repository and modified our contents based on shared templates. We greatly thank them for allowing reuse of their codebase. 
 
