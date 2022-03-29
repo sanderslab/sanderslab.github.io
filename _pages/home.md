@@ -9,7 +9,7 @@ permalink: /
 ![]({{ site.url }}{{ site.baseurl }}/images/latest_collage.png){: style="width: 600px; float: left;margin-right: 20px; border: 10px"}
 
 
-Our laboratory is interested in the development and validation of novel machine learning algorithms that can tackle multimodal data ranging from magnetic resonance imaging scans to voice recordings of individuals. 
+Our laboratory is interested in the development and validation of novel machine learning algorithms that can tackle multimodal data ranging from magnetic resonance imaging scans to high resolution microscopy data. 
 
 We are currently interested in the following questions that have clinical relevance:
 
