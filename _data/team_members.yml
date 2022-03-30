@@ -151,6 +151,20 @@
   group: 8
   extlink: 
   
+- name: Nina Le
+  photo: einstein.svg
+  info: 
+  url: 
+  group: 8
+  extlink:
+   
+- name: Ray Jhun
+  photo: einstein.svg
+  info: 
+  url: 
+  group: 8
+  extlink: 
+    
 - name: Shruti Kannan
   photo: einstein.svg
   info: 
@@ -206,7 +220,28 @@
   url: 
   group: 4
   extlink: 
-  
+
+- name: Yunruo Ni
+  photo: einstein.svg
+  info: 
+  url: 
+  group: 8
+  extlink: 
+
+- name: Qiuyuan Qin
+  photo: einstein.svg
+  info: 
+  url: 
+  group: 8
+  extlink: 
+
+- name: Yuwei Wang
+  photo: einstein.svg
+  info: 
+  url: 
+  group: 8
+  extlink: 
+        
 - name: Diya Nijhawan
   photo: einstein.svg
   info: 
