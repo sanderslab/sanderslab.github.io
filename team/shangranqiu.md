@@ -5,11 +5,10 @@ position: PhD Candidate
 handle: shangran
 email: 
 twitter:
-linkedin: https://www.linkedin.com/in/shangran/
-github: https://github.com/shangranq
+linkedin: shangran/
+github: shangranq
 scholar: https://scholar.google.com/citations?user=AF3UwgEAAAAJ&hl=en&authuser=1
-photo: shangran.jpeg 
-ucsf: shan.dong
+photo: shangran.jpeg
 ---
 
 ### Overview
