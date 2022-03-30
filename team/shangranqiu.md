@@ -1,9 +1,15 @@
+---
+layout: member
+title: Shangran Qiu
+position: PhD Candidate
+handle: shangran
+email: 
+twitter:
+linkedin: https://www.linkedin.com/in/shangran/
 github: https://github.com/shangranq
 scholar: https://scholar.google.com/citations?user=AF3UwgEAAAAJ&hl=en&authuser=1
-linkedin: https://www.linkedin.com/in/shangran/
-photo: grey.png
-photo: shangran.jpeg
-ucsf: 
+photo: shangran.jpeg 
+ucsf: shan.dong
 ---
 
 ### Overview
