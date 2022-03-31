@@ -211,7 +211,7 @@ permalink: /team/
 
 <i class="alumni1">{{ member.name }}</i><br>
 <i class="alumni2">{{ member.info }} ({{ member.year }}</i>) {% if member.current %} 
-<i class="alumni2">Current: {{ member.current }}</i> {% if member.extlink %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.extlink }}">(Link)</a>
+<i class="alumni2">Next step: {{ member.next }}</i> {% if member.extlink %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.extlink }}">(Link)</a>
 {% endif %}
 {% endif %}
 

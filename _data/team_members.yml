@@ -146,18 +146,12 @@
   
 - name: Xiao Zhou
   photo: einstein.svg
-  info: Next step: Postdoctoral scholar at Yale University
+  info: PhD student in Computer Science
   url: 
   group: 8
+  next: Postdoc at Yale University
   extlink: 
   
-- name: Nina Le
-  photo: einstein.svg
-  info: 
-  url: 
-  group: 8
-  extlink:
-   
 - name: Ray Jhun
   photo: einstein.svg
   info: 
@@ -167,37 +161,42 @@
     
 - name: Shruti Kannan
   photo: einstein.svg
-  info: 
+  info: Masters student in Electrical & Computer Engineering 
   url: 
   group: 8
+  next: DSP engineer at Bose Corporation
   extlink: 
   
 - name: Lisa Park
   photo: einstein.svg
-  info: 
+  info: MD student
   url: 
   group: 8
+  next: Radiology residency at Northwell Health
   extlink: 
   
 - name: Jared Lott
   photo: einstein.svg
-  info: 
+  info: Undergraduate student in Biomedical Engineering
   url: 
   group: 8
+  next: Analyst at Acsel Health
   extlink: 
 
 - name: Gary Chang
   photo: einstein.svg
-  info: 
+  info: Postdoctoral Associate
   url: 
   group: 8
+  next: Faculty at National Taiwan University
   extlink: 
   
 - name: Rushin Gindra
   photo: einstein.svg
-  info: 
+  info: Staff scientist
   url: 
   group: 8
+  next: PhD student at TU Munich
   extlink: 
     
 - name: Michalina Jadick
@@ -223,23 +222,26 @@
 
 - name: Yunruo Ni
   photo: einstein.svg
-  info: 
+  info: Undergraduate student in Computer Science
   url: 
   group: 8
+  next: Graduate student at Carnegie Mellon University
   extlink: 
 
 - name: Qiuyuan Qin
   photo: einstein.svg
-  info: 
+  info: Staff scientist
   url: 
   group: 8
+  next: Graduate student at University of Rochester
   extlink: 
 
 - name: Yuwei Wang
   photo: einstein.svg
-  info: 
+  info: Undergraduate student in Computer Science
   url: 
   group: 8
+  next: Graduate student at Northwestern University
   extlink: 
         
 - name: Diya Nijhawan
