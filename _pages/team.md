@@ -5,6 +5,7 @@ excerpt: "Kolachalama laboratory: Team members"
 sitemap: false
 permalink: /team/
 ---
+<script src="https://kit.fontawesome.com/03aee70ce1.js" crossorigin="anonymous"></script>
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
