@@ -8,7 +8,7 @@ twitter:
 linkedin: https://www.linkedin.com/in/dianazhang1806/
 website: www.diana-zhang.com
 scholar: https://scholar.google.com/citations?hl=en&user=HBnvK2YAAAAJ
-photo: diana.jpeg
+photo: diana_zhang.jpeg
 ---
 
 ### Overview
