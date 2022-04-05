@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ---
-![]({{ site.url }}{{ site.baseurl }}/images/latest_collage.png){: style="width: 600px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/latest_collage.png){: style="width: 620px; float: left;margin-right: 20px; border: 10px"}
 
 ---
 
