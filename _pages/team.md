@@ -22,7 +22,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i>
-  <a href="{{ member.github }}"><i class='fa fa-github'></i></a>
+  <a href="{{ member.github }}"><i class="fa-brands fa-github-alt"></i></a>
   <a href="{{ member.scholar }}"><i class="fa-solid fa-user-graduate"></i></a>
   <a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>
 </div>
