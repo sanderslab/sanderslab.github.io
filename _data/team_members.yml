@@ -1,8 +1,8 @@
 - name: Vijaya B. Kolachalama
   photo: vkola.jpeg
   info: Assistant Professor
-  url: https://github.com/vkola-lab/
   group: 0
+  github: https://github.com/vkola-lab/
   scholar: https://scholar.google.com/citations?hl=en&user=YgjYrrcAAAAJ&view_op=list_works&sortby=pubdate
   linkedin: https://www.linkedin.com/in/vijaya-b-kolachalama-92095574/
   
@@ -16,8 +16,8 @@
 - name: Michael Romano
   photo: mike_romano.jpg
   info: Postdoctoral scholar
-  url: https://github.com/mfromano/
   group: 1
+  url: https://github.com/mfromano/
   scholar: https://scholar.google.com/citations?user=WeaMpL0AAAAJ&hl=en&oi=ao
   github: https://github.com/mfromano/
 
@@ -33,14 +33,14 @@
   info: PhD student
   url: shangranqiu
   group: 2
-  extlink: https://scholar.google.com/citations?user=AF3UwgEAAAAJ&hl=en&authuser=1
+  scholar: https://scholar.google.com/citations?user=AF3UwgEAAAAJ&hl=en&authuser=1
           
 - name: Chonghua Xue
   photo: einstein.svg
   info: Staff scientist
   url: 
   group: 3
-  extlink: https://scholar.google.com/citations?user=f9k4jcMAAAAJ&hl=en&authuser=1
+  scholar: https://scholar.google.com/citations?user=f9k4jcMAAAAJ&hl=en&authuser=1
   
 - name: Matthew Miller
   photo: matt.png
@@ -51,10 +51,10 @@
   
 - name: Cody Karjadi
   photo: ckarjadi.jpeg
-  info: Research Technology Program Manager at the Framingham Heart Study, Brain Aging Program
+  info: Program Manager at the Framingham Heart Study
   url: ckarjadi
   group: 5
-  extlink: https://scholar.google.com/citations?user=tkohcEcAAAAJ&hl=en
+  scholar: https://scholar.google.com/citations?user=tkohcEcAAAAJ&hl=en
   
 - name: Diala Lteif
   photo: dlteif.jpg
@@ -68,14 +68,14 @@
   info: PhD student
   url: http://cs-people.bu.edu/yizheng/
   group: 2
-  extlink: https://scholar.google.com/citations?user=-qUeToQAAAAJ&hl=en&authuser=2
+  scholar: https://scholar.google.com/citations?user=-qUeToQAAAAJ&hl=en&authuser=2
   
 - name: Mona Jalal
   photo: monajalal.jpg
   info: PhD candidate
   url: http://monajalal.com/
   group: 2
-  extlink: https://scholar.google.com/citations?user=tTXTO0oAAAAJ&hl=en
+  scholar: https://scholar.google.com/citations?user=tTXTO0oAAAAJ&hl=en
 
 - name: Lindsey Claus
   photo: einstein.svg
