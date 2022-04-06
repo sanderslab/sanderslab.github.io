@@ -16,8 +16,9 @@
   info: Postdoctoral scholar
   url: https://github.com/mfromano/
   group: 1
-  extlink: https://scholar.google.com/citations?user=WeaMpL0AAAAJ&hl=en&oi=ao
-  
+  scholar: https://scholar.google.com/citations?user=WeaMpL0AAAAJ&hl=en&oi=ao
+  github: https://github.com/mfromano/
+
 - name: Harry Ding
   photo: einstein.svg
   info: Postdoctoral scholar

@@ -5,6 +5,7 @@ excerpt: "Kolachalama laboratory: Team members"
 sitemap: false
 permalink: /team/
 ---
+<script src="https://kit.fontawesome.com/03aee70ce1.js" crossorigin="anonymous"></script>
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
@@ -20,8 +21,11 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
-  <h4><a href="{{ member.exturl}}" class="off">Google Scholar</a></h4>
   <i>{{ member.info }}</i>
+
+  <h2>{% if member.github %}<a href="{{ member.github }}"><i class='fa fa-github'></i></a>{% endif %}
+  {% if member.scholar %}<a href="{{ member.scholar }}"><i class="fa-solid fa-user-graduate"></i></a>{% endif %}
+  {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>{% endif %}</h2>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -54,8 +58,11 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
-  <h4><a href="{{ member.exturl}}" class="off">Google Scholar</a></h4>
   <i>{{ member.info }}</i>
+
+  <h2>{% if member.github %}<a href="{{ member.github }}"><i class='fa fa-github'></i></a>{% endif %}
+  {% if member.scholar %}<a href="{{ member.scholar }}"><i class="fa-solid fa-user-graduate"></i></a>{% endif %}
+  {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>{% endif %}</h2>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -88,8 +95,11 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
-  <h4><a href="{{ member.exturl}}" class="off">Google Scholar</a></h4>
   <i>{{ member.info }}</i>
+
+  <h2>{% if member.github %}<a href="{{ member.github }}"><i class='fa fa-github'></i></a>{% endif %}
+  {% if member.scholar %}<a href="{{ member.scholar }}"><i class="fa-solid fa-user-graduate"></i></a>{% endif %}
+  {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>{% endif %}</h2>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -123,6 +133,10 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i>
+
+  <h2>{% if member.github %}<a href="{{ member.github }}"><i class='fa fa-github'></i></a>{% endif %}
+  {% if member.scholar %}<a href="{{ member.scholar }}"><i class="fa-solid fa-user-graduate"></i></a>{% endif %}
+  {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>{% endif %}</h2>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -156,6 +170,10 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i>
+
+  <h2>{% if member.github %}<a href="{{ member.github }}"><i class='fa fa-github'></i></a>{% endif %}
+  {% if member.scholar %}<a href="{{ member.scholar }}"><i class="fa-solid fa-user-graduate"></i></a>{% endif %}
+  {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>{% endif %}</h2>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -189,6 +207,10 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i>
+
+  <h2>{% if member.github %}<a href="{{ member.github }}"><i class='fa fa-github'></i></a>{% endif %}
+  {% if member.scholar %}<a href="{{ member.scholar }}"><i class="fa-solid fa-user-graduate"></i></a>{% endif %}
+  {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>{% endif %}</h2>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
