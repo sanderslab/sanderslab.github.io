@@ -1,15 +1,16 @@
 - name: Vijaya B. Kolachalama
   photo: vkola.jpeg
   info: Assistant Professor
-  url: 
+  url: https://github.com/vkola-lab/
   group: 0
+  scholar: https://scholar.google.com/citations?user=YgjYrrcAAAAJ&hl=en
   
 - name: Prajakta Joshi
   photo: einstein.svg
   info: Postdoctoral scholar
   url: 
   group: 1
-  extlink: https://www.linkedin.com/in/prajakta-joshi-79520a116/
+  linkedin: https://www.linkedin.com/in/prajakta-joshi-79520a116/
   
 - name: Michael Romano
   photo: mike_romano.jpg
