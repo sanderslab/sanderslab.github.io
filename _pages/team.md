@@ -155,7 +155,7 @@ permalink: /team/
 
 ---
 
-## Undergraduate student
+## Undergraduate students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
