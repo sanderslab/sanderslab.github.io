@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Cody Karjadi
-position: External Researcher (Framingham Heart Study, Brain Aging Program)
+position: Program Manager at the Framingham Heart Study
 handle: ckarjadi
 email: ckarjadi@bu.edu
 twitter:
