@@ -235,8 +235,16 @@
   url: 
   group: 8
   next: Radiology residency at Northwell Health
+  extlink:
+   
+- name: Hojoon Seo
+  photo: einstein.svg
+  info: Undergraduate student in the BA/MD program
+  url: 
+  group: 8
+  next: MD student at Boston University School of Medicine
   extlink: 
-  
+    
 - name: Jared Lott
   photo: einstein.svg
   info: Undergraduate student in Biomedical Engineering
