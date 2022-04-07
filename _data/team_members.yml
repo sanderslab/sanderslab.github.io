@@ -236,7 +236,15 @@
   group: 8
   next: Radiology residency at Northwell Health
   extlink:
-   
+
+- name: Shriya Reddy
+  photo: einstein.svg
+  info: Undergraduate student in the BA/MD/MBA program
+  url: 
+  group: 8
+  next: General surgery resident at Huntington Hospital
+  extlink: 
+     
 - name: Hojoon Seo
   photo: einstein.svg
   info: Undergraduate student in the BA/MD program
