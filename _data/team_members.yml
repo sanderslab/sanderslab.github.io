@@ -228,7 +228,15 @@
   group: 8
   next: Masters student at Northwestern University
   extlink: 
-        
+
+- name: Joseph Lai
+  photo: einstein.svg
+  info: Undergraduate student in Mathematics & Computer Science
+  url: 
+  group: 8
+  next: Software engineer at IMC trading
+  extlink: 
+          
 - name: Lisa Park
   photo: einstein.svg
   info: MD student at Boston University School of Medicine
