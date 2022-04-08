@@ -25,7 +25,8 @@ permalink: /team/
 
   <h2>{% if member.github %}<a href="{{ member.github }}"><i class='fa fa-github'></i></a>{% endif %}
   {% if member.scholar %}<a href="{{ member.scholar }}"><i class="fa-solid fa-user-graduate"></i></a>{% endif %}
-  {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>{% endif %}</h2>
+  {% if member.linkedin %}<a href="{{ member.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>{% endif %}
+  {% if member.twitter %}<a href="{{ member.twitter }}"><i class='fa fa-twitter'></i></a>{% endif %}</h2>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
