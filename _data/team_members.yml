@@ -132,14 +132,7 @@
   info: PhD student
   url: 
   group: 2
-  extlink: 
-  
-- name: Ray Jhun
-  photo: einstein.svg
-  info: MD student
-  url: 
-  group: 2
-  extlink:       
+  extlink:     
       
 - name: Tejus Surendran
   photo: tejus_photo.jpeg
@@ -198,6 +191,13 @@
   group: 4
   extlink: 
 
+- name: Ray Jhun
+  photo: einstein.svg
+  info: MD student
+  url: 
+  group: 2
+  extlink:   
+  
 - name: Xiao Zhou
   photo: einstein.svg
   info: PhD student in Computer Science
