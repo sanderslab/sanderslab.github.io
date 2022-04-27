@@ -157,11 +157,13 @@
   extlink: 
     
 - name: Michalina Jadick
-  photo: einstein.svg
-  info: 
+  photo: mica_jadick.svg
+  info: Pre-Medical Student at Boston University, Studying Neurobiology (B.A.) with a Minor in Computer Science
   url: 
   group: 4
-  extlink: 
+  linkedin: https://www.linkedin.com/in/michalina-jadick-2a531a199/
+  github: https://github.com/mjadick
+  scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xfSHRgwAAAAJ
   
 - name: Anika Walia
   photo: einstein.svg
