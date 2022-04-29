@@ -6,7 +6,7 @@ handle: yichi
 email: yiz370@bu.edu
 twitter:
 linkedin:
-github: MogicianEik
+github: https://github.com/MogicianEik
 scholar: https://scholar.google.com/citations?&user=Bwi5hSIAAAAJ
 photo: Yichi.jpg
 ---
