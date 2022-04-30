@@ -35,6 +35,8 @@
   url: shangranqiu
   group: 2
   scholar: https://scholar.google.com/citations?user=AF3UwgEAAAAJ&hl=en&authuser=1
+  github: https://github.com/shangranq
+  linkedin: https://www.linkedin.com/in/shangran/
           
 - name: Chonghua Xue
   photo: chonghua_pic.jpg
@@ -97,7 +99,8 @@
   info: PhD student
   url: 
   group: 2
-  extlink: 
+  github: https://github.com/MogicianEik
+  scholar: https://scholar.google.com/citations?&user=Bwi5hSIAAAAJ
   
 - name: Sandeep Sreerama
   photo: einstein.svg
