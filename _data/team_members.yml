@@ -110,11 +110,13 @@
   extlink: 
 
 - name: Akshara Balachandra
-  photo: einstein.svg
+  photo: akshara.jpg
   info: MD student
   url: 
   group: 2
-  extlink: 
+  github: https://github.com/androidpcguy
+  scholar: https://scholar.google.com/citations?user=wqGtGpMAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/akshara-balachandra-91957195/
 
 - name: Meagan Lauber
   photo: meagan_lauber.jpg
