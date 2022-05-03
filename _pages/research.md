@@ -17,3 +17,6 @@ This work was published in [Brain](https://doi.org/10.1093/brain/awaa137), a jou
 </div>
 
 ---
+
+#### Toffler scholarship in neuroscience
+We are grateful for funding from the Karen Toffler Charitable Trust. Please see [biography](https://tofflertrust.org/dr-vijaya-kolachalama/) for more details.
