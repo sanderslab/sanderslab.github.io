@@ -9,8 +9,8 @@ permalink: /research/
 ## Research
 
 ---
-#### Toffler scholarship in neuroscience
-We are grateful for funding from the Karen Toffler Charitable Trust. Please see [biography](https://tofflertrust.org/dr-vijaya-kolachalama/) for more details.
+#### Clinical grade machine learning tools for Alzheimer's disease 
+Please see [biography](https://tofflertrust.org/dr-vijaya-kolachalama/) for more details.
 
 ---
 #### An interpretable deep neural network for Alzheimer's disease classification
