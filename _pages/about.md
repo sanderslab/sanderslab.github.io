@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - About"
+title: "Kolachalama Laboratory - About"
 layout: textlay
-excerpt: "Sanders Lab -- About"
+excerpt: "Kolachalama Laboratory -- About"
 sitemap: false
 permalink: /about/
 ---
