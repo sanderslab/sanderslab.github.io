@@ -1,4 +1,7 @@
 - date: May 2022
+  headline: "New award! "<a href+'https://www.linkedin.com/in/yi-zheng-99240a115/'>Yi Zheng</a> wins 2022 CS Research Excellence Award, which is awarded annually to a graduate student for their outstanding research."
+  
+- date: May 2022
   headline: "New paper! <a href='https://doi.org/10.1016/j.artmed.2022.102313'>Machine learning for pre-med trainees</a>, published in Artificial Intelligence in Medicine."
   
 - date: May 2022
@@ -46,7 +49,10 @@
 - date: May 2021
   headline: "<a href='https://www.linkedin.com/in/yuwei-wang-786a5020b/'>Cathy Wang</a> graduates with a bachelor's degree in Computer Science and joins Northwestern's graduate program."
         
-- date: March 2021
+- date: May 2021
+  headline: "New award! "<a href+'https://www.linkedin.com/in/shangran/'>Shangran Qiu</a> wins 2021 Department of Physics Alvaro Roccaro Memorial Prize, which is awarded annually to a graduate student who has made a strong contribution to the department."
+  
+- date: May 2021
   headline: "New paper! <a href='https://doi.org/10.1186/s13195-021-00797-5'>Game theory-based deep learning</a> to augment Alzheimer's disease classification, published in Alzheimer's Research & Therapy."
   
 - date: January 2021
