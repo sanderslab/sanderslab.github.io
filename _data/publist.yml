@@ -18,16 +18,6 @@
   highlight: 1
   news2: 
 
-- title: "Development and validation of an interpretable deep learning framework for Alzheimer's disease classification"
-  image: Qiu2020.jpeg
-  description: 
-  authors: 
-  link:
-    url: https://doi.org/10.1093/brain/awaa137
-    display:  Qiu et al. Brain (2020)
-  highlight: 1
-  news2: 
-
 - title: "Deep-learning-driven quantification of interstitial fibrosis in digitized kidney biopsies"
   image: Zheng2021.gif
   description: 
@@ -38,6 +28,16 @@
   highlight: 1
   news2: 
 
+- title: "Development and validation of an interpretable deep learning framework for Alzheimer's disease classification"
+  image: Qiu2020.jpeg
+  description: 
+  authors: 
+  link:
+    url: https://doi.org/10.1093/brain/awaa137
+    display:  Qiu et al. Brain (2020)
+  highlight: 1
+  news2: 
+  
 - title: "Mechanisms of tissue uptake and retention in zotarolimus-coated balloon therapy"
   image: Kolachalama2013.gif
   description: 
