@@ -1,3 +1,13 @@
+- title: "A graph-transformer for whole slide image classification"
+  image: Zheng2022.png
+  description: 
+  authors: 
+  link:
+    url: https://doi.org/10.1109/TMI.2022.3176598
+    display: Zheng et al. IEEE Trans Med Imaging (2022)
+  highlight: 1
+  news2: 
+  
 - title: "Subchondral bone length in knee osteoarthritis: A deep learning–derived imaging measure and its association with radiographic and clinical outcomes"
   image: Chang2020.png
   description: 
