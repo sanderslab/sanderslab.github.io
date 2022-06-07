@@ -9,13 +9,6 @@ permalink: /research/
 ## Research
 
 ---
-#### Discriminating Alzheimer's disease from other forms of dementia
-
-<div class="youtube">
-  <iframe src="https://youtube.com/Yq_0q4WocW8" frameborder="1" width="426px" height="240px" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
----
 #### Clinical grade machine learning tools for Alzheimer's disease 
 Please see [biography](https://tofflertrust.org/dr-vijaya-kolachalama/) for more details.
 
