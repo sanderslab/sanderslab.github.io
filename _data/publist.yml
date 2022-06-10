@@ -19,7 +19,7 @@
   news2: 
   
 - title: "Subchondral bone length in knee osteoarthritis: A deep learning–derived imaging measure and its association with radiographic and clinical outcomes"
-  image: Chang2020.png
+  image: Chang2021.png
   description: 
   authors: 
   link:
@@ -28,6 +28,16 @@
   highlight: 1
   news2: 
 
+- title: "Enhancing magnetic resonance imaging-driven Alzheimer’s disease classification performance using generative adversarial learning"
+  image: Zhou2021.jpg
+  description: 
+  authors: 
+  link:
+    url: https://doi.org/10.1186/s13195-021-00797-5
+    display: Zhou et al. Alzheimer's Research & Therapy (2021)
+  highlight: 1
+  news2: 
+  
 - title: "Deep-learning-driven quantification of interstitial fibrosis in digitized kidney biopsies"
   image: Zheng2021.gif
   description: 
