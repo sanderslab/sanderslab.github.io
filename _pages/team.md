@@ -230,7 +230,7 @@ permalink: /team/
 
 ---
 
-## Alumni
+## Alumni (Incomplete list)
 
 {% for member in site.data.team_members %}
 {% if member.group == 8 %}
