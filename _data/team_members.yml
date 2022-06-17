@@ -1,50 +1,44 @@
-- name: Stephan Sanders
-  photo: stephansanders.jpg
-  info: Associate Professor
-  url: stephansanders
+- name: Emily R. Smith
+  photo: emilysmith.jpg
+  info: Assistant Professor
+  url: emilysmith
   group: 0
-  
-- name: Shan Dong
-  photo: shandong.jpg
+
+- name: Gargi Wable Grandner
+  photo: gargiwable.jpg
   info: Postdoctoral Scholar
-  url: shandong
+  url: gargiwable
   group: 1
 
-- name: David Young
-  photo: davidyoung.jpg
-  info: Postdoctoral Scholar
-  url: davidyoung
+- name: Megan Talej
+  photo: megantalej.jpg
+  info: MPH Student
+  url: megantalej
   group: 1
 
-- name: Nick Page
-  photo: nickpage.jpg
-  info: Graduate Student
-  url: nickpage
-  group: 1
-
-- name: Clif Duhn
-  photo: clifduhn.jpg
-  info: Laboratory Manager
-  url: clifduhn
+- name: Jaime Marquis
+  photo: jaimemarquis.jpeg
+  info: Senior Research Associate
+  url: jaimemarquis
   group: 2
 
-- name: Alessandra Aguilar
-  photo: alessandraaguilar.jpg
-  info: Staff Research Associate
-  url: alessandraaguilar
+- name: Stacie Loisate
+  photo: stacieloisate.jpeg
+  info: Senior Data Manager
+  url: stacieloisate
   group: 2
 
-- name: Aileen Poquiz
-  photo: aileenpoquiz.jpg
-  info: Administrative Officer
-  url: aileenpoquiz
-  group: 2
-      
-- name: Lindsay Liang
-  photo: lindsayliang.jpg
-  info: Bioinformatics Programmer II
-  url: lindsayliang
-  group: 3
+# - name: Aileen Poquiz
+#   photo: aileenpoquiz.jpg
+#   info: Administrative Officer
+#   url: aileenpoquiz
+#   group: 2
+#
+# - name: Lindsay Liang
+#   photo: lindsayliang.jpg
+#   info: Bioinformatics Programmer II
+#   url: lindsayliang
+#   group: 3
 
 - name: Michael Gilson
   photo: michaelgilson.jpg
@@ -59,7 +53,7 @@
   url: brookesheppard
   group: 8
   year: 2017-2021
-  
+
 - name: Aparna Kumar
   photo: aparnakumar.jpg
   info: Undergraduate Research Volunteer
@@ -83,7 +77,7 @@
   year: 2015-2019
   current: Assistant Professor of Genetics, University of Wisconsin-Madison
   extlink: https://werling.genetics.wisc.edu/
-  
+
 - name: Joon An
   photo: joonan.jpg
   info: Postdoctoral Scholar
@@ -123,7 +117,7 @@
   url: denizyuruk
   group: 8
   year: 2017-2018
-  
+
 - name: Louw Smith
   info: Data Operations Manager
   url: louwsmith
@@ -151,14 +145,14 @@
   url: florazhao
   group: 8
   year: 2017
-  current: 
+  current:
 
 - name: Jason Zhao
   info: High School Research Volunteer
   url: jasonzhao
   group: 8
   year: 2017
-  current: 
+  current:
 
 - name: Carmen Sandoval
   info: Neuroscience Rotation Student
@@ -173,5 +167,3 @@
   group: 8
   year: 2018
   current: Bard College
-  
- 

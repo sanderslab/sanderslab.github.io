@@ -36,6 +36,18 @@ layout: default
 		<div class="bigspacer"></div>
 		{% endif %}
 
+		{% if member.gwu %}
+		<div class="smallhead">
+			GWU Profile
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-university"></i>
+			<a class="off" href="https://publichealth.gwu.edu/departments/global-health-exercise-and-nutrition-sciences/{{ member.gwu }}">{{ member.gwu }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
 		{% if member.twitter %}
 		<div class="smallhead">
 			Twitter
