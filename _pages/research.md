@@ -13,7 +13,7 @@ permalink: /research/
 This work was published in [Nature Communications](https://doi.org/10.1038/s41467-022-31037-5) in 2022. 
 
 <div class="youtube">
-  <iframe src="https://youtu.be/ZfbVcaVgyLQ" frameborder="1" width="426px" height="240px" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://youtube/embed/ZfbVcaVgyLQ" frameborder="1" width="426px" height="240px" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
