@@ -11,7 +11,7 @@ permalink: /social/
 ---
 
 ### June 2022:
-<img src="{{ site.url }}{{ site.baseurl }}/images/socialpic/June2022.jpg" style="width: 800px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/socialpic/Jun2022.jpg" style="width: 800px">
 
 ### May 2022:
 <img src="{{ site.url }}{{ site.baseurl }}/images/socialpic/May2022.jpg" style="width: 800px">
