@@ -10,7 +10,7 @@ permalink: /
 ![]({{ site.url }}{{ site.baseurl }}/images/latest_collage.png){: style="width: 625px; float: left;margin-right: 20px; border: 10px"}
 ---
 <br>
-We are interested in solving an overarching problem in medical research: While new technologies are generating multimodal data at an unprecedented rate, most methods that are being utilized for data analysis are designed on non-medical domains. **We are creating methods to fit the science and not make science fit the methods.** 
+**Our mission is to create methods to fit the science and not make science fit the methods.** 
 
 Specifically, we are interested in the following questions that have clinical relevance:
 
