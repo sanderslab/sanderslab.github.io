@@ -1,99 +1,20 @@
-- title: "Constructing and optimizing 3D atlases from 2D data with application to the developing mouse brain"
-  image: Young2021.png
-  description: 
-  authors: 
+- title: "Problems with evidence assessment in COVID-19 health policy impact evaluation: a systematic review of study design and evidence strength"
+  image: Haber2022BMJ.png
+  description:
+  authors:
   link:
-    url: https://elifesciences.org/articles/61408
-    display:  Young et al. eLife (2021)
+    url: https://bmjopen.bmj.com/content/12/1/e053820.abstract
+    display:  Haber et al. BMJ (2022)
   highlight: 1
-  news2: 
+  news2:
 
-- title: "Whole‐Brain Image Analysis and Anatomical Atlas 3D Generation Using MagellanMapper"
-  image: Young2020.jpg
-  description: 
-  authors: 
-  link:
-    url: https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpns.104
-    display: Young et al. Current Protocols in Neuroscience (2020)
-  highlight: 1
-  news2: 
 
-- title: "Genome-wide de novo risk score implicates promoter variation in autism spectrum disorder"
-  image: An2018.gif
-  description: 
-  authors: 
+- title: "The psychological distress of parents is associated with reduced linear growth of children: Evidence from a nationwide population survey"
+  image: Sulsiloretni2021PLOSONE.png
+  description:
+  authors:
   link:
-    url: https://science.sciencemag.org/content/362/6420/eaat6576.long
-    display:  An et al. Science (2018)
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246725
+    display:  Susiloretni et al. PLOS ONE (2021)
   highlight: 1
-  news2: 
-
-- title: "An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder"
-  image: Werling2018.png
-  description: 
-  authors: 
-  link:
-    url: https://www.nature.com/articles/s41588-018-0107-y
-    display:  Werling et al. Nature Genetics (2018)
-  highlight: 1
-  news2: 
-
-- title: "Opposing Effects on NaV1.2 Function Underlie Differences Between SCN2A Variants Observed in Individuals With Autism Spectrum Disorder or Infantile Seizures"
-  image: BenShalom2017.jpg
-  description: 
-  authors: 
-  link:
-    url: https://www.biologicalpsychiatryjournal.com/article/S0006-3223(17)30041-0/fulltext
-    display:  Ben-Shalom et al. Biological Psychiatry (2017)
-  highlight: 1
-  news2: 
-
-- title: "Insights into Autism Spectrum Disorder Genomic Architecture and Biology from 71 Risk Loci"
-  image: Sanders2015.png
-  description: 
-  authors: 
-  link:
-    url: https://www.ncbi.nlm.nih.gov/pubmed/26402605
-    display:  Sanders et al. Neuron (2015)
-  highlight: 1
-  news2: 
-
-- title: "Synaptic, transcriptional and chromatin genes disrupted in autism"
-  image: DeRubeis2014.png
-  description: 
-  authors: 
-  link:
-    url: https://www.nature.com/articles/nature13772
-    display:  De Rubeis et al. Nature (2014)
-  highlight: 1
-  news2: 
-
-- title: "The contribution of de novo coding mutations to autism spectrum disorder"
-  image: Iossifov2014.png
-  description: 
-  authors: 
-  link:
-    url: https://www.nature.com/articles/nature13908
-    display:  Iossifov et al. Nature (2014)
-  highlight: 1
-  news2: 
-
-- title: "De novo mutations revealed by whole-exome sequencing are strongly associated with autism"
-  image: Sanders2012.png
-  description: 
-  authors: 
-  link:
-    url: https://www.nature.com/articles/nature10945
-    display:  Sanders et al. Nature (2012)
-  highlight: 1
-  news2: 
-
-- title: "Multiple Recurrent De Novo CNVs, Including Duplications of the 7q11.23 Williams Syndrome Region, Are Strongly Associated with Autism"
-  image: Sanders2011.png
-  description: 
-  authors: 
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0896627311003746
-    display:  Sanders et al. Neuron (2011)
-  highlight: 1
-  news2: 
+  news2:

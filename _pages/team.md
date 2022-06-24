@@ -110,7 +110,7 @@ permalink: /team/
 {% endif %}
 
 ---
-
+<!--
 ## PsychCore Genomics Core
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -141,8 +141,8 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 ---
+
 
 ## Visiting Scholars
 {% assign number_printed = 0 %}
@@ -176,6 +176,7 @@ permalink: /team/
 {% endif %}
 
 ---
+-->
 
 ## Alumni
 
@@ -193,9 +194,10 @@ permalink: /team/
 
 ---
 
+<!--
 ## Administrative Support
 Please contact our lab manager, <a href="mailto:Clif.Duhn@ucsf.edu">Clif Duhn</a>.
-
+-->
 
 
 
