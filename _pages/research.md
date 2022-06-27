@@ -9,7 +9,7 @@ permalink: /research/
 ## Research
 
 ---
-#### Technology for making diagnosing dementia easier for doctors
+#### Technology for dementia diagnosis
 Please read the [BU Brink Article](https://www.bu.edu/articles/2022/two-technologies-that-can-make-diagnosing-dementia-easier-for-doctors-and-patients/).
 
 ---
