@@ -1,5 +1,5 @@
 ---
-title: "BIPL Lab - Recruitment"
+title: "BIPL - Recruitment"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

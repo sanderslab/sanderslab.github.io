@@ -1,7 +1,7 @@
 ---
-title: "BIPL Lab - Publications"
+title: "BIPL - Publications"
 layout: gridlay
-excerpt: "BIPL Lab -- Publications."
+excerpt: "BIPL -- Publications."
 sitemap: false
 permalink: /publications/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "BIPL Lab - News"
+title: "BIPL - News"
 layout: textlay
-excerpt: "BIPL Lab at UoL."
+excerpt: "BIPL at UoL."
 sitemap: false
 permalink: /allnews.html
 ---

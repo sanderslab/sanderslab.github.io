@@ -1,17 +1,17 @@
 ---
-title: "BIPL Lab - Home"
+title: "BIPL - Home"
 layout: homelay
-excerpt: "BIPL Lab at UoL."
+excerpt: "BIPL at UoL."
 sitemap: false
 permalink: /
 ---
 
-# Welcome to BIPL Lab at UoL
+# Welcome to BIPL at UoL
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lab_home.jpeg){: style="width: 100%; float: left;margin-right: 20px; border: 10px"}
 
 
-BIPL mainly works on the development of novel algorithms and application tools for automated processing of medical and biological signals/images. Major research contribution is made towards two complementary aspects: Fundamental understanding and modelling of images and signals, and Application-driven development in collaboration with professionals in medicine, biology, psychology, engineering, physics, earth observation and sociology. 
+BIPL(Biomedical Image Processing Lab) mainly works on the development of novel algorithms and application tools for automated processing of medical and biological signals/images. Major research contribution is made towards two complementary aspects: Fundamental understanding and modelling of images and signals, and Application-driven development in collaboration with professionals in medicine, biology, psychology, engineering, physics, earth observation and sociology. 
 With digital biomedical signals/images being widely stored and shared in networks, the research group also looks to bolster the analysis of biomedical data and cyber-security of signal processing systems.
 
 There are four main areas of research:
@@ -28,7 +28,7 @@ The Sanders Lab is primarily a bioinformatic group that uses a wide range of gen
 ### Collaborators
 We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard.
 -->
-### Joining BIPL Lab
+### Joining BIPL
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
 ### Funding
