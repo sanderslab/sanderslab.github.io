@@ -1,20 +1,39 @@
-- title: "Problems with evidence assessment in COVID-19 health policy impact evaluation: a systematic review of study design and evidence strength"
-  image: Haber2022BMJ.png
+- title: "Protocol for a sequential, prospective meta-analysis to describe coronavirus disease 2019 (COVID-19) in the pregnancy and postpartum periods"
+  image: PLOSONE.png
   description:
   authors:
   link:
-    url: https://bmjopen.bmj.com/content/12/1/e053820.abstract
-    display:  Haber et al. BMJ (2022)
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270150
+    display:  Smith et al. PLOS ONE (2022)
   highlight: 1
   news2:
 
-
-- title: "The psychological distress of parents is associated with reduced linear growth of children: Evidence from a nationwide population survey"
-  image: Sulsiloretni2021PLOSONE.png
+- title: "Non-specific effects of BCG and DTP vaccination on infant mortality: An analysis of birth cohorts in Ghana and Tanzania"
+  image: Vaccine.jpeg
   description:
   authors:
   link:
-    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246725
-    display:  Susiloretni et al. PLOS ONE (2021)
+    url: https://www.sciencedirect.com/science/article/pii/S0264410X22005369?casa_token=uOb6dZA5BtYAAAAA:YZt3S3kVArCRZA4f794ur98OsVaU6G13l4JO02hllMSPxtxNa-wDsItd5SnE6SZTQVXTFM9rcg
+    display:  Quinn et al. Vaccine (2022)
+  highlight: 1
+  news2:
+
+- title: "Limited data exist to inform our basic understanding of micronutrient requirements in pregnancy"
+  image: ScienceAdvances.png
+  description:
+  authors:
+  link:
+    url: https://www.science.org/doi/full/10.1126/sciadv.abj8016
+    display:  Smith et al. BMJ (2021)
+  highlight: 1
+  news2:
+
+- title: "Modifiers of the effect of maternal multiple micronutrient supplementation on stillbirth, birth outcomes, and infant mortality: a meta-analysis of individual patient data from 17 randomised trials in low-income and middle-income countries"
+  image: LANCET2017.png
+  description:
+  authors:
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2214109X17303716
+    display:  Smith et al. THE LANCET (2017)
   highlight: 1
   news2:

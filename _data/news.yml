@@ -1,35 +1,121 @@
-- date: June 13, 2022
-  headline: "Welcome to <a href='team/stacieloisate'>Stacie Loisate</a>, a senior data manager who has joined the Smith labs!"
+
+- date: June 17, 2022
+  headline: "Research covered in <a href='https://www.nationalgeographic.com/science/article/many-women-struggle-to-breastfeed-scientists-are-starting-to-ask-why'>National Geographic:</a> 'Many women struggle to breastfeed. Scientists are starting to
+ask why.'"
+
+- date: June 9, 2022
+  headline: "Research covered by <a href='https://www.youtube.com/watch?v=a9LbUGGxoyM'>eNews Channel Africa:</a> 'COVID-19 in Africa | Study confirms pregnant women at
+high risk.'"
+
+- date: May 27, 2022
+  headline: "Quoted in <a href='https://www.politifact.com/factchecks/2022/may/27/facebook-posts/no-evidence-masks-caused-covid-19-deaths/'>Politifact:</a> 'Fact Check | There’s a “‘positive correlation’ between higher mask usage and
+COVID-19 deaths.'"
 
 - date: May 05 2022
   headline: "Dr. Smith will be the principal investigator for a <a href='https://gwtoday.gwu.edu/gw-lead-international-research-maternal-newborn-health'>International Research on Maternal, Newborn Health</a> funded by the Bill & Melinda Gates Foundation."
 
-# - date: Sept 27 2020
-#   headline: "New paper! <a href='https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpns.104'>Young et al. 2020</a> published in Current Protocols in Neuroscience on using <a href='https://github.com/sanderslab/magellanmapper'>MagellanMapper</a> for image analysis."
-#
-# - date: Dec 13th 2018
-#   headline: "New paper! <a href='http://science.sciencemag.org/content/362/6420/eaat6576.long'> An et al. 2018 </a> published in Science, highlights the role of promoters in autism."
-#
-# - date: Dec 1st 2018
-#   headline: "Our work with the Autism Sequencing Consortium identifies 99 autism genes, paper submitted to <a href='https://www.biorxiv.org/content/early/2018/12/01/484113'> BioRxiv </a>."
-#
-# - date: May 29th 2018
-#   headline: "Donna presents the lab’s recent work, <a href='https://youtu.be/zR608Q20jn8'>'Analytical Framework for WGS and its Implications for ASD'</a> at the PGC Statistical Genetics Group online meeting."
-#
-# - date: May 9th 2018
-#   headline: "Stephan, Donna, Brooke and Joon travel to Rotterdam, Netherlands, to share our latest work at <a href='https://insar.confex.com/insar/2018/webprogram/start.html'>INSAR 2018</a>."
-#
-# - date: May 7th 2018
-#   headline: "Donna and Joon’s latest works highlighted in <a href='https://autismsciencefoundation.org/news/wild-new-genetic-hot-spots/'>Autism Science Foundation Podcast</a>."
-#
-# - date: April 27th 2018
-#   headline: "New paper! <a href='https://www.nature.com/articles/s41588-018-0107-y'> Werling et al. 2018 </a> published in Nature Genetics in collaboration with the Autism Sequencing Consortium."
-#
-# - date: April 12th 2017
-#   headline: "Stephan with Kevin Bender (UCSF) talk about <a href='https://youtu.be/zzP3DZcViyY'>'The genetics and physiology of SCN2A in autism and early-onset seizures'</a> at the Simons VIP Connect."
-#
-# - date: Nov 30th 2016
-#   headline: "Donna talks about <a href='https://youtu.be/M332bqmYI2Q'>'The Role of Sex-Differential Biology in Risk for Autism Spectrum Disorder'</a> at the SFARI Webinar Series."
-#
-# - date: April 21th 2016
-#   headline: "Stephan talks about <a href='https://youtu.be/lSH6-2mIdh4'>'The Genetics of Autism'</a> at the University of California Television."
+- date: Feb 8, 2022
+  headline: "Quoted in <a href='https://www.theguardian.com/education/2022/feb/08/virginia-school-mask-fight'>The Guardian:</a> '‘A slap in the face’: uproar in Virginia as governor relaxes school mask rules.'"
+
+- date: Jan 28, 2022
+  headline: "Quoted in <a href='https://www.motherjones.com/politics/2022/01/doctors-urgency-normal-toolkit-schools-covid-normal-botched-effort-backfire/#:~:text=These%20Doctors%20Wanted%20to%20Get,%E2%80%93%20Mother%20Jones'>Mother Jones:</a> 'These Doctors Wanted to Get Schools Back to Normal. Their Botched Effort
+May Backfire'"
+
+- date: Jan 14, 2022
+  headline: "Quoted in  <a href='https://www.chronicle.com/article/a-covid-new-normal-is-coming-to-campus-heres-what-that-could-look-like'>The Chronicles of Higher Education: </a>'A Covid ‘New Normal’ Is Coming to Campus. Here’s What That Could Look Like.'"
+
+- date: Dec 2, 2021
+  headline: "Research covered and quoted in <a href='https://www.science.org/content/article/it-s-misinformation-worst-weak-health-studies-can-do-more-harm-good-scientists-say'>Science Magazine: </a>‘It's misinformation at worst.’ Weak health studies can do more harm than good, scientists say."
+
+- date: Nov 9, 2021
+  headline: "Research covered and quoted in  <a href='https://www.endocrinologyadvisor.com/home/topics/practice-management/pregnancy-women-underrepresented-in-nutrition-reference-value-research/'>Endocrinology Advisor: </a> Pregnancy, Women Underrepresented in Nutrition Reference Value Research."
+
+- date: Nov 3, 2021
+  headline: "Research covered and quoted in  <a href='https://www.healio.com/news/primary-care/20211103/pregnant-women-are-underrepresented-or-absent-in-nutrition-reference-value-studies'>Healio: </a>Pregnant women are underrepresented or absent in nutrition reference value studies."
+
+- date: Nov 1, 2021
+  headline: "Research covered and quoted in  <a href='https://consumer.healthday.com/women-underrepresented-in-research-for-nutrition-reference-values-2655360064.html'>Health Day: </a>Pregnancy, Women Underrepresented in Nutrition Reference Value Research."
+
+- date: Nov 1, 2021
+  headline: "Research covered and quoted in  <a href='https://www.drugs.com/news/pregnancy-women-underrepresented-nutrition-reference-value-research-101371.html'>Drugs.com: </a>Pregnancy, Women Underrepresented in Nutrition Reference Value Research."
+
+- date: Oct 25, 2021
+  headline: "Research covered and quoted in  <a href='https://www.medpagetoday.com/obgyn/pregnancy/95242'>MedPage Today: </a>Do We Know What Amount of Micronutrients Are Needed in Pregnancy?"
+
+- date: Oct 25, 2021
+  headline: "Research covered and quoted in  <a href='http://ct.moreover.com/?a=46180516696&p=1pl&v=1&x=5gHcKNHf0BTNj8h1WVtiVw'>The Medical News: </a>Women and pregnant people understated in studies used to draw up the nutritional guidance."
+
+- date: Oct 22, 2021
+  headline: "Research covered and quoted in  <a href='http://ct.moreover.com/?a=46164928741&p=1pl&v=1&x=UV6lNiQcsL-ax3C6DOKQGw'>MedicalXpress: </a>Study suggests women and pregnant people are underrepresented in research to inform nutrition reference values."
+
+- date: July 6, 2021
+  headline: "Quoted in <a href='https://www.science.org/content/article/covid-19-affects-men-and-women-differently-so-why-don-t-clinical-trials-report-gender'>Science Magazine: </a>COVID-19 affects men and women differently. So why don’t clinical trials
+report gender data?"
+
+- date: Aug 16, 2021
+  headline: "Quoted in  <a href='https://www.usatoday.com/story/news/factcheck/2021/08/16/fact-check-covid-19-vaccines-work-protect-others/8106810002/'>USA Today:  </a>COVID-19 vaccine protects both the person vaccinated and those around them."
+
+- date: Aug 13, 2021
+  headline: "Quoted in  <a href='https://www.usatoday.com/story/news/factcheck/2021/08/13/fact-check-covid-19-transmission-death-risk-isnt-easily-calculated/5537226001/'>USA Today: </a>Fact check: Viral video misleads on individuals' risk of COVID-19 transmission,
+death."
+
+- date: Aug 13, 2021
+  headline: "Quoted in  <a href='https://www.politifact.com/factchecks/2021/aug/13/tiktok-posts/experts-break-down-numbers-catching-'>Poltifact: </a>Fact-checking a TikTok post about a 0.05% risk of dying from COVID-19."
+
+- date: Feb 8, 2021
+  headline: "Quoted in  <a href='https://factcheck.afp.com/article-misleads-mercks-decision-drop-covid-19-vaccines'>AFP Fact Check: </a>Article misleads on Merck’s decision to drop Covid-19 vaccines. "
+
+- date: Nov 20, 2020
+  headline: "Quoted in  <a href='https://www.npr.org/sections/goatsandsoda/2020/11/20/937018585/who-trial-finds-remdesivir-has-no-meaningful-effect-in-covid-19-patients'>NPR: </a>WHO Trial Finds Remdesivir Has 'No Meaningful Effect' In COVID-19 Patients."
+
+- date: Nov 25, 2020
+  headline: "Quoted in  <a href='https://www.smh.com.au/world/north-america/why-thanksgiving-is-set-to-be-a-perfect-storm-for-spread-of-covid-19-20201124-p56hb6.html'>The Sydney Morning Herald:  </a>'Test before turkey' not enough to avoid Thanksgiving 'perfect storm'"
+
+- date: Oct 7, 2020
+  headline: "Quoted in  <a href='https://www.rollcall.com/2020/10/07/how-safe-would-a-moon-suit-senate-vote-on-barrett-be/'>CQ Roll Call:  </a>How safe would a ‘moon suit’ Senate vote on Barrett be?"
+
+- date: Aug 24, 2020
+  headline: "Quoted in  <a href='https://www.nytimes.com/2020/08/24/health/fda-blood-plasma.html'>The New York Times:  </a>F.D.A. ‘Grossly Misrepresented’ Blood Plasma Data, Scientists Say."
+
+- date: July 7, 2020
+  headline: "Radio Interview regarding COVID-19 outbreaks at gyms. The Morning News on 770 CHQR (Canada)."
+
+- date: June 30, 2020
+  headline: "Quoted in  <a href='https://www.teenvogue.com/story/socializing-during-coronavirus-what-to-know'>Teen Vogue: </a>Socializing During Coronavirus: What to Know and How to Reduce Risks."
+
+- date: June 29, 2020
+  headline: "TV Interview with Meshal Malik on  <a href='https://www.youtube.com/watch?v=vZ-U8IhYFog&feature=youtu.be'>Indus News </a>Pakistan regarding new safety and efficacy data for
+convalescent plasma  treatment for COVID-19. "
+
+- date: June 26, 2020
+  headline: "Quoted in  <a href='https://www.sciencemag.org/news/2020/06/it-s-safe-go-back-gym-if-there-s-little-covid-19-around-study-suggests'>Science Magazine:  </a>It’s safe to go back to the gym—if there’s little COVID-19 around, study
+suggests."
+
+- date: June 26, 2020
+  headline: "Quoted in  <a href='https://factcheck.afp.com/disgraced-us-researcher-makes-false-claims-about-vaccine-safety'>AFP Fact Check:  </a>Disgraced US researcher makes false claims about vaccine safety."
+
+- date: June 1, 2020
+  headline: "TV Interview with James Rosen of Sinclair Broadcasting (193 local news channels) regarding HHS report
+about CDC coronavirus test contamination <a href='https://twitter.com/JamesRosenTV/status/1274088400165928960'> TV version. </a>"
+
+- date: June 1, 2020
+  headline: "TV Interview with Meshal Malik on Indus News Pakistan regarding US withdrawal from WHO."
+
+- date: Apr 29, 2020
+  headline: "Quoted in  <a href='https://www.colorlines.com/articles/documenting-disparity-challenges-collecting-racial-data-coronavirus'>Color Lines: </a>Documenting Disparity: The Challenges of Collecting Racial Data on
+Coronavirus."
+
+- date: Mar 20, 2020
+  headline: "Interview with Bhutan News Service. COVID-19, Social Distancing, and the Bhutanese/Nepali Community. "
+
+- date:
+  headline: " <a href=''> </a>"
+
+- date:
+  headline: " <a href=''> </a>"
+
+- date:
+  headline: " <a href=''> </a>"
+
+- date:
+  headline: " <a href=''> </a>"

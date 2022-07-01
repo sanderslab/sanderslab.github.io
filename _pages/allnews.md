@@ -1,12 +1,12 @@
 ---
-title: "Smith Lab - News"
+title: "Smith Lab - Media Coverage"
 layout: textlay
 excerpt: "Smith Lab at GWSPH."
 sitemap: false
 permalink: /allnews.html
 ---
 
-# News
+# Media
 
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>
