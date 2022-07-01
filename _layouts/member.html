@@ -24,18 +24,7 @@ layout: default
 <div class="row">
 	<div class="col-sm-3">
 
-		{% if member.ucsf %}
-		<div class="smallhead">
-			UCSF Profile
-		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="fa fa-university"></i>
-			<a class="off" href="https://profiles.ucsf.edu/{{ member.ucsf }}">{{ member.ucsf }}</a>
-		</div>
-		<div class="bigspacer"></div>
-		{% endif %}
-
+<!-- GWU profile -->
 		{% if member.gwu %}
 		<div class="smallhead">
 			GWU Profile
@@ -48,6 +37,7 @@ layout: default
 		<div class="bigspacer"></div>
 		{% endif %}
 
+<!-- Twitter -->
 		{% if member.twitter %}
 		<div class="smallhead">
 			Twitter
@@ -60,6 +50,7 @@ layout: default
 		<div class="bigspacer"></div>
 		{% endif %}
 
+<!-- Github -->
 		{% if member.github %}
 		<div class="smallhead">
 			GitHub
@@ -72,6 +63,7 @@ layout: default
 		<div class="bigspacer"></div>
 		{% endif %}
 
+<!-- Google Scholar -->
 		{% if member.scholar %}
 		<div class="smallhead">
 			Google Scholar
@@ -84,6 +76,7 @@ layout: default
 		<div class="bigspacer"></div>
 		{% endif %}
 
+<!-- Linkedin -->
 		{% if member.linkedin %}
 		<div class="smallhead">
 			LinkedIn
@@ -96,6 +89,33 @@ layout: default
 		<div class="bigspacer"></div>
 		{% endif %}
 
+<!-- ResearchGate -->
+		{% if member.researchGate %}
+		<div class="smallhead">
+			ResearchGate
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa-brands fa-researchgate"></i>
+			<a class="off" href="https://www.researchgate.net/profile/{{ member.researchGate }}">{{ member.title }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+<!-- ORCID -->
+		{% if member.orcid %}
+		<div class="smallhead">
+			ORCID
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fab fa-orcid"></i>
+			<a class="off" href="orcid.org/{{ member.orcid }}">{{ member.title }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+<!-- Email -->
 		{% if member.email %}
 		{% assign emailarray = member.email | split: '@' %}
 		<div class="smallhead">

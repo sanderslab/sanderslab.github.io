@@ -9,7 +9,7 @@ permalink: /
 # Welcome to Smith Lab at GWSPH
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/EmilyRSmith.jpg){: style="width: 300px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/homephoto.jpg){: style="width: 300px; float: left;margin-right: 20px; border: 10px"}
 
 <div style="text-align: justify">
 The Smith Lab focuses on infection and nutrition across the life course, with a goal of generating, analyzing, and translating epidemiological data to improve maternal, newborn, and child health in low- and middle-income countries. The Lab has participated in the design, implementation, and analysis of randomized trials, surveillance, and health service program evaluations in Tanzania, Ghana, Bolivia, Peru, Rwanda, Uganda, Afghanistan, and the U.S. to evaluate the efficacy and effectiveness of health interventions. We worked closely with WHO to synthesize and translate evidence for use in global policy contexts on topics including: risk of SARS-CoV-2 in pregnancy; mother-to-child transmission of SARS-CoV-2; efficacy and safety of neonatal vitamin A supplementation, and interventions for care and feeding of low birthweight infants. [Five main areas of research](research) are: *COVID-19*, *Comprehensive Multivitamins in Pregnancy Improve Birth Outcomes*, *The Effect of Neonatal Vitamin A Supplementation on Infant Mortality*, *The Effect of Early Breastfeeding Initiation on Infant Morbidity and Mortality*, and  *Immunology, Epidemiology, and Burden of Viral Diarrhea*.

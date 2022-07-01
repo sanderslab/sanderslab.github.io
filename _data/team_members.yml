@@ -16,23 +16,30 @@
   url: fouziafarooq
   group: 1
 
+- name: Wen-chien Yang
+  photo: wenchienyang.jpg
+  info: PhD Student
+  url: wenchienyang
+  group: 1
+
 - name: Megan Talej
   photo: megantalej.jpg
   info: MPH Student
   url: megantalej
   group: 1
 
-- name: Jaime Marquis
-  photo: jaimemarquis.jpeg
-  info: Senior Research Associate
-  url: jaimemarquis
-  group: 2
+- name: Dina Moradian
+  photo: dinamoradian.png
+  info: MPH Student
+  url: dinamoradian
+  group: 1
 
-- name: Stacie Loisate
-  photo: stacieloisate.jpeg
-  info: Senior Data Manager
-  url: stacieloisate
-  group: 2
+- name: Allison Schwedock
+  photo: allisonschwedock.jpg
+  info: MPH Student
+  url: allisonschwedock
+  group: 1
+
 
 - name: Sasha Baumann
   photo: sashabaumann.jpeg
@@ -44,6 +51,30 @@
   photo: xiaoyanhu.jpeg
   info: Senior Data Manager
   url: xiaoyanhu
+  group: 2
+
+- name: Victoria Reynolds
+  photo: victoriareynolds.jpeg
+  info: Senior Research Associate
+  url: victoriareynolds
+  group: 2
+
+- name: Stacie Loisate
+  photo: stacieloisate.jpeg
+  info: Senior Data Manager
+  url: stacieloisate
+  group: 2
+
+- name: Jaime Marquis
+  photo: jaimemarquis.jpeg
+  info: Senior Research Associate
+  url: jaimemarquis
+  group: 2
+
+- name: Xiang Li
+  photo: xiangli.jpeg
+  info: Senior Research Assistant
+  url: xiangli
   group: 2
 
 # - name: Aileen Poquiz
