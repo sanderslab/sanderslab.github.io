@@ -56,14 +56,4 @@
     url: https://doi.org/10.1093/brain/awaa137
     display:  Qiu et al. Brain (2020)
   highlight: 1
-  news2: 
-  
-- title: "Mechanisms of tissue uptake and retention in zotarolimus-coated balloon therapy"
-  image: Kolachalama2013.gif
-  description: 
-  authors: 
-  link:
-    url: https://doi.org/10.1161/CIRCULATIONAHA.113.002051
-    display: Kolachalama et al. Circulation (2013)
-  highlight: 1
-  news2: 
+  news2:
