@@ -153,24 +153,6 @@
   url: 
   group: 4
   extlink: 
-    
-- name: Michalina Jadick
-  photo: mica_jadick.png
-  info: Undergraduate student in Neurobiology & Computer Science
-  url: 
-  group: 8
-  linkedin: https://www.linkedin.com/in/michalina-jadick-2a531a199/
-  github: https://github.com/mjadick
-  scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xfSHRgwAAAAJ
-  next: Clinical Research Coordinator at MGH Gordon Center
-  
-- name: Anika Walia
-  photo: anika_walia.jpg
-  info: Undergraduate student in BA/MD program at Boston University studying Computer Science
-  url: 
-  group: 4
-  linkedin: https://www.linkedin.com/in/anika-walia/
-  extlink: 
   
 - name: Olivia Zhou
   photo: einstein.svg
@@ -185,6 +167,32 @@
   url: muyuanli
   group: 2
   linkedin: https://www.linkedin.com/in/muyuan-li-853124191/
+  
+- name: Anika Walia
+  photo: anika_walia.jpg
+  info: Undergraduate student in BA/MD program at Boston University studying Computer Science
+  url: 
+  group: 4
+  linkedin: https://www.linkedin.com/in/anika-walia/
+  extlink: 
+          
+- name: Michalina Jadick
+  photo: mica_jadick.png
+  info: Undergraduate student in Neurobiology & Computer Science
+  url: 
+  group: 8
+  linkedin: https://www.linkedin.com/in/michalina-jadick-2a531a199/
+  github: https://github.com/mjadick
+  scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xfSHRgwAAAAJ
+  next: Clinical Research Coordinator at MGH Gordon Center
+    
+- name: Diya Nijhawan
+  photo: einstein.svg
+  info: Undergraduate student in Neurobiology  
+  url: 
+  group: 8
+  next: Masters (MAMS) student at Boston University School of Medicine
+  extlink: 
 
 - name: Ray Jhun
   photo: einstein.svg
