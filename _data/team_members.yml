@@ -187,7 +187,6 @@
   next: Clinical Research Coordinator at MGH Gordon Center
     
 - name: Diya Nijhawan
-  photo: einstein.svg
   info: Undergraduate student in Neurobiology  
   url: 
   group: 8
@@ -195,7 +194,6 @@
   extlink: 
 
 - name: Ray Jhun
-  photo: einstein.svg
   info: MD student at Boston University School of Medicine
   url: 
   group: 8
@@ -203,7 +201,6 @@
   extlink:   
   
 - name: Xiao Zhou
-  photo: einstein.svg
   info: PhD student in Computer Science
   url: 
   group: 8
@@ -211,7 +208,6 @@
   extlink: 
   
 - name: Rushin Gindra
-  photo: einstein.svg
   info: Staff scientist
   url: 
   group: 8
@@ -219,15 +215,13 @@
   extlink: 
   
 - name: Yunruo Ni
-  photo: einstein.svg
   info: Undergraduate student in Computer Science
   url: 
   group: 8
   next: Masters student at Carnegie Mellon University
   extlink: 
 
-- name: Cathy Wang
-  photo: einstein.svg
+- name: Cathy (Yuwei) Wang
   info: Undergraduate student in Computer Science
   url: 
   group: 8
@@ -235,7 +229,6 @@
   extlink: 
 
 - name: Joseph Lai
-  photo: einstein.svg
   info: Undergraduate student in Mathematics & Computer Science
   url: 
   group: 8
@@ -243,7 +236,6 @@
   extlink: 
           
 - name: Lisa Park
-  photo: einstein.svg
   info: MD student at Boston University School of Medicine
   url: 
   group: 8
@@ -251,7 +243,6 @@
   extlink:
 
 - name: Shriya Reddy
-  photo: einstein.svg
   info: Undergraduate student in the BA/MD/MBA program
   url: 
   group: 8
@@ -259,7 +250,6 @@
   extlink: 
      
 - name: Hojoon Seo
-  photo: einstein.svg
   info: Undergraduate student in the BA/MD program
   url: 
   group: 8
@@ -267,7 +257,6 @@
   extlink: 
     
 - name: Saemi Jung
-  photo: einstein.svg
   info: Undergraduate student in Neuroscience & Computer Science
   url: 
   group: 8
@@ -275,7 +264,6 @@
   extlink: 
   
 - name: Jared Lott
-  photo: einstein.svg
   info: Undergraduate student in Biomedical Engineering
   url: 
   group: 8
@@ -283,7 +271,6 @@
   extlink: 
 
 - name: Megan Heydari
-  photo: einstein.svg
   info: Undergraduate student in Electrical and Computer Engineering
   url: 
   group: 8
@@ -291,7 +278,6 @@
   extlink: 
   
 - name: Benjamin Liang
-  photo: einstein.svg
   info: Undergraduate student in Biomedical Engineering
   url: 
   group: 8
@@ -299,7 +285,6 @@
   extlink: 
   
 - name: Andre Gonzaga
-  photo: einstein.svg
   info: Undergraduate student in Computer Engineering
   url: 
   group: 8
@@ -307,7 +292,6 @@
   extlink: 
   
 - name: Gary Chang
-  photo: einstein.svg
   info: Postdoctoral Associate
   url: 
   group: 8
@@ -315,7 +299,6 @@
   extlink: 
 
 - name: Qiuyuan Qin
-  photo: einstein.svg
   info: Staff scientist
   url: 
   group: 8
@@ -323,9 +306,7 @@
   extlink: 
   
 - name: Shruti Kannan
-  photo: einstein.svg
   info: Masters student in Electrical & Computer Engineering 
-  url: 
   group: 8
   next: DSP engineer at Bose Corporation, Boston, MA
   extlink: 
