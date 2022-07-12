@@ -22,6 +22,12 @@
   url: wenchienyang
   group: 1
 
+- name: Ramma Chitale
+  photo: ramaachitale.jpg
+  info: DrPH Student
+  url: ramaachitale
+  group: 1
+
 - name: Megan Talej
   photo: megantalej.jpg
   info: MPH Student
@@ -45,6 +51,12 @@
   photo: sashabaumann.jpeg
   info: Senior Research Associate
   url: sashabaumann
+  group: 2
+
+- name: Alexandra Bellows
+  photo: alexabellows.jpg
+  info: Senior Research Associate
+  url: alexabellows
   group: 2
 
 - name: Xiaoyan Hu
