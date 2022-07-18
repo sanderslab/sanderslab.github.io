@@ -177,7 +177,7 @@
   group: 4
   linkedin: https://www.linkedin.com/in/anika-walia/
   extlink: 
-          
+  
 - name: Michalina Jadick
   photo: mica_jadick.png
   info: Undergraduate student in Neurobiology & Computer Science
@@ -300,6 +300,13 @@
   next: Faculty at National Taiwan University
   extlink: 
 
+- name: Christopher Lin
+  info: Graduate student in Bioinformatics 
+  url: 
+  group: 8
+  next: MD student at University of Vermont
+  extlink: 
+  
 - name: Qiuyuan Qin
   info: Staff scientist
   url: 
