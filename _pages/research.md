@@ -9,6 +9,15 @@ permalink: /research/
 ## Research
 
 ---
+#### AI for dementia assessment 
+Summary of our lab's research on machine learning approaches for dementia assessment.
+
+<div class="youtube">
+  <iframe src="https://youtube.com/embed/kI21nlsQlWU" frameborder="1" width="426px" height="240px" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+---
 #### Technology for dementia diagnosis
 Please read the [BU Brink Article](https://www.bu.edu/articles/2022/two-technologies-that-can-make-diagnosing-dementia-easier-for-doctors-and-patients/).
 
