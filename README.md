@@ -14,7 +14,9 @@ The workflow is to update and build the website locally, then push the changes t
 
 The website is built by jekyll, so we need to install jekyll locally.
 
-First [install ruby](https://stackoverflow.com/questions/51126403/you-dont-have-write-permissions-for-the-library-ruby-gems-2-3-0-directory-ma) through terminal/command. Install customizd ruby in addition to the default ruby.
+First [Install `Homebrew` package](https://brew.sh) in the terminal/command if it's not available yet.
+
+Then [install ruby](https://stackoverflow.com/questions/51126403/you-dont-have-write-permissions-for-the-library-ruby-gems-2-3-0-directory-ma) through terminal/command. Install customizd ruby in addition to the default ruby.
 
 ```
 brew install chruby ruby-install
@@ -71,6 +73,9 @@ bundle add webrick
 
 # build website after finishing updates
 jekyll build
+
+# exit the updating mode
+# press control^+C
 ```
      
 ### 4. Push the changes to the Github
