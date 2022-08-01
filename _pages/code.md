@@ -11,15 +11,15 @@ permalink: /code/
 
 ---
 
-## [Redefining Maternal Anemia in Pregnancy and Postpartum](https://github.com/ReMAPP-Anemia)
+## [PRiSMA-Study](https://github.com/PRiSMA-Study)
 
 <!--
 <img src="{{ site.url }}{{ site.baseurl }}/images/codepic/WGS_Pipeline_Image.png" style="width: 300px"> 
 -->
 
-The Github repository contains the STATA and R code of performing monthly monitoring report of the data collected across study sites, as well as data analysis pipeline coded in R.
+Pregnancy Risk Stratification Innovation and Measurement Alliance (PRiSMA) Maternal and Newborn Health (MNH) Study: A multi-center, prospective cohort study. The Github repository contains all the STATA and R code developed for the PRiSMA and ReMAPP Study.
 
-- <a href="https://github.com/ReMAPP-Anemia"><i class='fab fa-github'></i> Source</a>
+- <a href="https://github.com/PRiSMA-Study"><i class='fab fa-github'></i> Source</a>
 - <a href=""><i class='fa fa-book'></i> Paper</a>
 - <a href=""><i class='fa fa-book'></i> Protocol</a>
 
