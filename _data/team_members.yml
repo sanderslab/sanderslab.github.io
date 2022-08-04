@@ -46,13 +46,6 @@
   url: allisonschwedock
   group: 1
 
-
-- name: Sasha Baumann
-  photo: sashabaumann.jpeg
-  info: Senior Research Associate
-  url: sashabaumann
-  group: 2
-
 - name: Alexandra Bellows
   photo: alexabellows.jpg
   info: Senior Research Associate
@@ -83,11 +76,13 @@
   url: jaimemarquis
   group: 2
 
-- name: Xiang Li
-  photo: xiangli.jpeg
+- name: Clara Parsons
+  photo: claraparsons.jpeg
   info: Senior Research Assistant
-  url: xiangli
+  url: claraparsons
   group: 2
+
+
 
 # - name: Aileen Poquiz
 #   photo: aileenpoquiz.jpg
@@ -109,3 +104,22 @@
   year: 2020-2021
   current: Centers for Disease Control and Prevention
   extlink: https://www.linkedin.com/in/siranhe/
+
+- name: Sasha Baumann
+  photo: sashabaumann.jpeg
+  info: Senior Research Associate
+  url: sashabaumann
+  group: 8
+  year: 2020-2022
+  extlink: https://www.linkedin.com/in/sashagb/
+
+- name: Xiang Li
+  photo: xiangli.jpeg
+  info: Senior Research Assistant
+  url: xiangli
+  group: 8
+  year: 2021-2022
+  extlink: https://www.linkedin.com/in/xiang-li-505757129/
+
+
+
