@@ -14,9 +14,9 @@ The workflow is to update and build the website locally, then push the changes t
 
 The website is built by jekyll, so we need to install jekyll locally.
 
-First [Install `Homebrew` package](https://brew.sh) in the terminal/command if it's not available yet.
+(one-time installation) First [Install `Homebrew` package](https://brew.sh) in the terminal/command if it's not available yet.
 
-Then [install ruby](https://stackoverflow.com/questions/51126403/you-dont-have-write-permissions-for-the-library-ruby-gems-2-3-0-directory-ma) through terminal/command. Install customizd ruby in addition to the default ruby.
+(one-time installation) Then [install ruby](https://stackoverflow.com/questions/51126403/you-dont-have-write-permissions-for-the-library-ruby-gems-2-3-0-directory-ma) through terminal/command. Install customizd ruby in addition to the default ruby.
 
 ```
 brew install chruby ruby-install
@@ -26,7 +26,7 @@ ruby-install ruby
 echo 'source /usr/local/opt/chruby/share/chruby/auto.sh' >>~/.bash_profile
 ```
 
-[Switch from](https://stackoverflow.com/questions/37058625/chruby-not-changing-to-the-proper-version-of-ruby-according-to-the-value-in-rub) default ruby to the customized ruby.
+(may need to repeat every time) [Switch from](https://stackoverflow.com/questions/37058625/chruby-not-changing-to-the-proper-version-of-ruby-according-to-the-value-in-rub) default ruby to the customized ruby.
 
 ```
 source /usr/local/opt/chruby/share/chruby/chruby.sh 
@@ -36,7 +36,7 @@ chruby ruby-3.1.2
 source /usr/local/opt/chruby/share/chruby/auto.sh
 ```
 
-Install jekyll.
+(one-time installation) Install jekyll.
 
 ```
 gem install bundler jekyll
