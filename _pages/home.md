@@ -14,8 +14,8 @@ permalink: /
 
 Specifically, we are interested in the following questions that have clinical relevance:
 
-1. **Neurodegeneration** -- How can we develop software frameworks that can assist dementia screening in various settings? 
-2. **Digital pathology** -- How can we build clinical-grade software tools to complement the pathologist workflow?
+1. **Neurodegeneration** -- How can we develop software frameworks that can assist dementia screening in various real-world settings? 
+2. **Digital pathology** -- How can we build clinical-grade software tools to complement the clinical workflow?
 
 We are also interested in the following frameworks that have computational relevance:
 
