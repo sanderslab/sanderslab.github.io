@@ -37,3 +37,43 @@
     display:  Smith et al. THE LANCET (2017)
   highlight: 1
   news2:
+
+- title: "Responsive Feeding for Preterm or Low Birth Weight Infants: A Systematic Review and Meta-analysis"
+  image: Pediatrics.jpeg
+  description:
+  authors: 
+  link:
+    url: https://publications.aap.org/pediatrics/article/150/Supplement%201/e2022057092F/188648/Responsive-Feeding-for-Preterm-or-Low-Birth-Weight?autologincheck=redirected?nfToken=00000000-0000-0000-0000-000000000000
+    display:  Talej et al. Pediatrics (2022)
+  highlight: 1
+  news2:
+
+- title: "Early Enteral Feeding for Preterm or Low Birth Weight Infants: a Systematic Review and Meta-analysis"
+  image: Pediatrics.jpeg
+  description:
+  authors: 
+  link:
+    url: https://doi.org/10.1542/peds.2022-057092E
+    display:  Chitale et al. Pediatrics (2022)
+  highlight: 1
+  news2:
+
+- title: "Duration of Exclusive Breastfeeding for Preterm or Low Birth Weight Infants: A Systematic Review and Meta-analysis "
+  image: Pediatrics.jpeg
+  description:
+  authors: 
+  link:
+    url: https://doi.org/10.1542/peds.2022-057092H
+    display:  Yang et al. Pediatrics (2022)
+  highlight: 1
+  news2:
+
+- title: "Fast Feed Advancement for Preterm and Low Birth Weight Infants: A Systematic Review and Meta-analysis "
+  image: Pediatrics.jpeg
+  description:
+  authors: 
+  link:
+    url: https://doi.org/10.1542/peds.2022-057092G
+    display:  Yang et al. Pediatrics (2022)
+  highlight: 1
+  news2:
