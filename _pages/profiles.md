@@ -6,7 +6,7 @@ sitemap: false
 permalink: /profiles/
 ---
 
-## Profiles of our lab members
+## Profiles
 
 ---
 #### Diana Zhang - 2022
