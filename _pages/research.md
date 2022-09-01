@@ -15,7 +15,7 @@ Discussion of our Nature Communications manuscript on Clubhouse. Click [here](ht
   <iframe src="https://www.clubhouse.com/room/PN9Rgp66?utm_medium=ch_room_xerc&utm_campaign=j24X6ivwc0EnmCitvMfvdw-349164" frameborder="1" width="426px" height="240px" picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
+---
 ---
 #### AI for dementia assessment 
 Summary of our lab's research on machine learning approaches for dementia assessment.
