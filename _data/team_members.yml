@@ -119,7 +119,15 @@
   url: 
   group: 2
   linkedin: https://www.linkedin.com/in/meagan-lauber-1050b417b/     
-      
+
+- name: Lingyi Xu
+  photo: lingyi_xu.jpg
+  info: PhD student
+  url: 
+  group: 2
+  linkedin: https://www.linkedin.com/in/olivialingyixu/
+  github: https://lingyixu.github.io/    
+        
 - name: Tejus Surendran
   photo: tejus_photo.jpeg
   info: Staff scientist
