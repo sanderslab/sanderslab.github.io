@@ -9,6 +9,14 @@ permalink: /research/
 ## Research
 
 ---
+#### Clubhouse discussion on our latest work 
+Discussion of our Nature Communications manuscript on Clubhouse. Click [here](https://doi.org/10.1038/s41467-022-31037-5) for the paper.
+<div class="youtube">
+  <iframe src="https://www.clubhouse.com/room/PN9Rgp66?utm_medium=ch_room_xerc&utm_campaign=j24X6ivwc0EnmCitvMfvdw-349164" frameborder="1" width="426px" height="240px" picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+---
 #### AI for dementia assessment 
 Summary of our lab's research on machine learning approaches for dementia assessment.
 
