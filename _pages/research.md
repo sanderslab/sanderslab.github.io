@@ -12,7 +12,7 @@ permalink: /research/
 #### Clubhouse discussion on our latest work 
 Discussion of our [Nature Communications](https://doi.org/10.1038/s41467-022-31037-5) manuscript on Clubhouse. Click [here](https://www.clubhouse.com/room/PN9Rgp66?utm_medium=ch_room_xerc&utm_campaign=j24X6ivwc0EnmCitvMfvdw-349164) for more details.
 <div class="image">
-  <iframe src="https://www.clubhouse.com/room/PN9Rgp66?utm_medium=ch_room_xerc&utm_campaign=j24X6ivwc0EnmCitvMfvdw-349164" frameborder="0" width="600px" height="70px" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.clubhouse.com/room/PN9Rgp66?utm_medium=ch_room_xerc&utm_campaign=j24X6ivwc0EnmCitvMfvdw-349164" frameborder="0" width="600px" height="65px" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
