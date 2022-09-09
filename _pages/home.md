@@ -8,7 +8,7 @@ permalink: /
 
 # Welcome to BIPL at UoL
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab_home.jpeg){: style="width: 100%; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab_mf.jpeg){: style="width: 100%; float: left;margin-right: 20px; border: 10px"}
 
 
 **BIPL(Biomedical Image Processing Lab)** mainly works on the development of novel algorithms and application tools for automated processing of medical and biological signals/images. Major research contribution is made towards two complementary aspects: Fundamental understanding and modelling of images and signals, and Application-driven development in collaboration with professionals in medicine, biology, psychology, engineering, physics, earth observation and sociology. 
