@@ -8,7 +8,7 @@ twitter:
 github:
 scholar: M-PnEysAAAAJ
 linkedin: jaime-marquis 
-photo: jaimemarquis.jpeg
+photo: jaimemarquis.png
 ucsf: 
 ---
 

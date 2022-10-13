@@ -4,12 +4,6 @@
   url: emilysmith
   group: 0
 
-- name: Gargi Wable Grandner
-  photo: gargiwable.jpg
-  info: Postdoctoral Scholar
-  url: gargiwable
-  group: 1
-
 - name: Fouzia Farooq
   photo: fouziafarooq.jpg
   info: Postdoctoral Scholar
@@ -30,31 +24,32 @@
 
 - name: Megan Talej
   photo: megantalej.jpg
-  info: MPH Student
+  info: PhD Student
   url: megantalej
   group: 1
 
-- name: Dina Moradian
-  photo: dinamoradian.png
-  info: MPH Student
-  url: dinamoradian
+- name: Jenny Kim
+  photo: jennykim.png
+  info: PhD Student
+  url: jennykim
   group: 1
 
-- name: Allison Schwedock
-  photo: allisonschwedock.jpg
+- name: Eliza Fishman
+  photo: elizafishman.png
   info: MPH Student
-  url: allisonschwedock
+  url: elizafishman
   group: 1
 
-- name: Alexandra Bellows
-  photo: alexabellows.jpg
-  info: Senior Research Associate
-  url: alexabellows
-  group: 2
+- name: Jamie Thivener
+  photo: jamiethivener.png
+  info: MPH Student
+  url: jamiethivener
+  group: 1
+
 
 - name: Xiaoyan Hu
   photo: xiaoyanhu.jpeg
-  info: Senior Data Manager
+  info: Senior Research Associate, Data Management
   url: xiaoyanhu
   group: 2
 
@@ -66,12 +61,12 @@
 
 - name: Stacie Loisate
   photo: stacieloisate.jpeg
-  info: Senior Data Manager
+  info: Senior Research Associate, Data Management
   url: stacieloisate
   group: 2
 
 - name: Jaime Marquis
-  photo: jaimemarquis.jpeg
+  photo: jaimemarquis.png
   info: Senior Research Associate
   url: jaimemarquis
   group: 2
@@ -121,5 +116,34 @@
   year: 2021-2022
   extlink: https://www.linkedin.com/in/xiang-li-505757129/
 
+- name: Gargi Wable Grandner
+  photo: gargiwable.jpg
+  info: Postdoctoral Scholar
+  url: gargiwable
+  group: 8
+  year: 2021-2022
+  extlink: https://www.linkedin.com/in/gargi-wable-grandner/
 
+- name: Dina Moradian
+  photo: dinamoradian.png
+  info: MPH Student
+  url: dinamoradian
+  group: 8
+  year: 2020-2022
+  extlink: https://www.linkedin.com/in/dinamoradian128/
 
+- name: Allison Schwedock
+  photo: allisonschwedock.jpg
+  info: MPH Student
+  url: allisonschwedock
+  group: 8
+  year: 2022
+  extlink: https://www.linkedin.com/in/allison-schwedock-811752168/
+
+- name: Alexandra Bellows
+  photo: alexabellows.jpg
+  info: Senior Research Associate
+  url: alexabellows
+  group: 8
+  year: 2021-2022
+  extlink: https://www.linkedin.com/in/alexandra-bellows/
