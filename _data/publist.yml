@@ -1,3 +1,13 @@
+- title: "DGNet: Distribution Guided Efficient Learning for Oil Spill Image Segmentation"
+  image: chen_TGARS_2023.png
+  description: 
+  authors: 
+  link:
+    url: https://arxiv.org/pdf/2301.01202.pdf
+    display:  Chen et al. IEEE Trans. on Geoscience and Remote Sensing. (2023). [[Source Code](https://github.com/oilspillimageseg/dgsegmentation)]
+  highlight: 1
+  news2: 
+
 - title: "Cost-sensitive boosting pruning trees for depression detection on Twitter"
   image: Tong2022.png
   description: 
