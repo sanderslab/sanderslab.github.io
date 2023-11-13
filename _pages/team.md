@@ -227,7 +227,7 @@ permalink: /team/
 ---
 
 ## Administrative Support
-Please contact our lab manager, <a href="mailto:lt228@leicester.ac.uk">Lei Tong</a>.
+Please contact our lab manager.
 
 
 
