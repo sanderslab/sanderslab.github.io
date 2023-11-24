@@ -1,10 +1,10 @@
-- title: "xxxxx"
-  image: xxxxxx
+- title: "MDD-Enabled Two-Tier Terahertz Fronthaul in Indoor Industrial Cell-Free Massive MIMO"
+  image: bohan_TCOMM.png
   description: 
   authors: 
   link:
-    url: https://arxiv.org/pdf/2301.01202.pdf
-    display:  Chen et al. IEEE Trans. on Geoscience and Remote Sensing. (2023). [[Source Code](https://github.com/oilspillimageseg/dgsegmentation)]
+    url: https://10.1109/TCOMM.2023.3330893
+    display:  B. Li et al., IEEE Trans. Commun. (2023).
   highlight: 1
   news2: 
 
